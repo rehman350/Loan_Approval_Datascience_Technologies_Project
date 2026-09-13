@@ -1,0 +1,1021 @@
+Application_ID,Application_Date,Age,Marital_Status,Education,Employment_Type,Employment_Years,Annual_Income,Credit_Score,Existing_Debt,Loan_Amount,Loan_Term,Home_Ownership,Previous_Default,Loan_Approved
+APP10593,2025-07-27,35.0,Married,Bachelor,self-employed,4.0,65300.0,661.0,3400.0,24500.0,60 months,Rent,No,Yes
+APP10805,2025-10-19,38.0,Married,High School,Salaried,,10700.0,643.0,1200.0,3000.0,60 months, rent ,No,Yes
+APP10154,2025-02-25,43.0,Married,Doctorate,Salaried,2.0,50300.0,768.0,15900.0,25000.0,48 months,Own,No,Yes
+APP10268,2025-04-02,52.0,MARRIED,Bachelor,Salaried,22.0,,792.0,26300.0,41000.0,60 months,Mortgage,No,Yes
+APP10829,2025-10-27,43.0,Married,MASTER,SELF-EMPLOYED,8.0,26300.0,710.0,11400.0,8500.0,60 months,Rent,Yes,No
+APP10361,2025-05-02,21.0,Divorced,High School,Salaried,0.0,39900.0,630.0,18100.0,11000.0,36 months,Rent,No,No
+APP10564,2025-07-16,29.0,Single,BACHELOR, salaried ,1.0,75600.0,571.0,34800.0,29500.0,36 months,Rent,No,No
+APP10285,2025-04-07,31.0,Married,High School,Salaried,8.0,22100.0,696.0,8300.0,5000.0,12 months,Rent,No,Yes
+APP10652,2025-08-21,29.0,Single,Bachelor, self-employed ,7.0,52000.0,686.0,11400.0,29000.0,12 months,Rent,No,No
+APP10360,2025-05-02,34.0,Divorced,Bachelor,Contract,9.0,37300.0,687.0,15200.0,13000.0,12 months,Rent,No,Yes
+APP10961,2025-12-20,28.0, Single,,Salaried,4.0,28700.0,794.0,2200.0,12000.0,24 months,Rent,No,Yes
+APP10880,2025-11-13,40.0,Single,Master,Self-Employed,7.0,55300.0,684.0,11000.0,22000.0,60 months,Mortgage,No,Yes
+APP10699,2025-09-07,41.0,Single,Bachelor,Self-Employed,10.0,38900.0,661.0,7400.0,23500.0,12 months,Rent,No,Yes
+APP10569,2025-07-18,27.0,Single,Bachelor  ,Self-Employed,,52400.0,717.0,27800.0,65500.0,48 months,Mortgage,No,No
+APP10137,2025-02-19,29.0,Divorced,Bachelor,Self-Employed,4.0,22100.0,719.0,4700.0,11000.0,60 months, rent ,No,Yes
+APP10532,2025-07-06,33.0, Single,High School, Self-Employed,7.0,43800.0,674.0,19800.0,33000.0,36 months,Rent,No,No
+APP10530,2025-07-05,43.0,Married,Master,Salaried,7.0,33800.0,569.0,0.0,3000.0,36 months,Rent,Yes,Yes
+APP10111,2025-02-11,33.0,Single,Bachelor,Salaried,3.0,60600.0,679.0,11200.0,46500.0,48 months,Rent,No,No
+APP10247,2025-03-29,31.0,Married,Bachelor,Salaried,7.0,30100.0,826.0,16800.0,12000.0,24 months,Own,No,Yes
+APP10267,2025-04-01,21.0,Single,High School,Salaried,1.0,67200.0,628.0,14900.0,18000.0,48 months,Rent,No,No
+APP10298,2025-04-10,32.0,Single,Master,Salaried,10.0,72700.0,529.0,26500.0,38000.0,60 months,Rent,Yes,No
+APP10320,2025-04-17,22.0,Single,Doctorate,Self-Employed,1.0,36800.0,661.0,22600.0,20000.0,60 months,Mortgage  ,No,No
+APP10716,2025-09-17,32.0,Single,Master,Salaried,,111500.0,640.0,16500.0,24000.0,60 months,Mortgage,No,Yes
+APP10643,2025-08-17,21.0,Single  ,High School,Self-Employed,1.0,21600.0,642.0,11900.0,7000.0,36 months,Rent,No,No
+APP10595,2025-07-28,28.0,Single,Bachelor,Salaried,3.0,41400.0,784.0,4800.0,8000.0,48 months,Rent,No,Yes
+APP10255,2025-03-31,61.0,Married,High School,Contract,27.0,46700.0,786.0,0.0,8500.0,12 months,OWN,No,Yes
+APP10027,2025-01-12,35.0,Divorced,Bachelor, self-employed ,7.0,48800.0,658.0,12200.0,32000.0,60 months,Mortgage,Yes,No
+APP10264,2025-04-01,48.0,married,Master,Self-Employed,10.0,65300.0,599.0,0.0,30000.0,12 months,Rent,Yes,No
+APP10858,2025-11-05,37.0,Divorced,Bachelor,Salaried,5.0,28600.0,626.0,1000.0,13000.0,48 months,Mortgage,No,Yes
+APP10680,2025-08-30,40.0,Divorced,Master,Salaried,9.0,132600.0,648.0,0.0,65000.0,60 months,Mortgage,No,Yes
+APP10289,2025-04-08,41.0,Divorced,Master,Salaried,10.0,48500.0,752.0,12800.0,15500.0,24 months,Mortgage,No,No
+APP10022,2025-01-11,35.0, Married,High School,Salaried,5.0,38000.0,801.0,3000.0,11500.0,60 months,mortgage,No,Yes
+APP10410,2025-05-18,40.0,Married,High School,Salaried,3.0,35600.0,693.0,2300.0,16500.0,36 months,Own,No,Yes
+APP10200,2025-03-14,46.0,Married,Master,Salaried,8.0,36700.0,592.0,9800.0,13000.0,60 months,Rent,No,No
+APP10888,2025-11-20,37.0,Single,Bachelor,Contract,7.0,27300.0,724.0,11600.0,8000.0,48 months,Rent,No,Yes
+APP10244,2025-03-28,59.0,Married,Bachelor,Salaried,13.0,51600.0,728.0,24100.0,16500.0,36 months,Mortgage,No,Yes
+APP10662,2025-08-25,39.0,Single,High School,Self-Employed  ,3.0,59300.0,648.0,18700.0,62500.0,60 months,Own,No,No
+APP10646,2025-08-18,49.0,Married,High School,self-employed,9.0,54500.0,647.0,11500.0,38500.0,24 months, Mortgage,No,No
+APP10424,2025-05-24,42.0,Married,Master,Salaried,5.0,54700.0,746.0,30700.0,10500.0,48 months,MORTGAGE,No,Yes
+APP10288,2025-04-08,50.0,Married,High School,Self-Employed,12.0,38000.0,622.0,11000.0,7000.0,36 months,Own,No,No
+APP10754,2025-09-29,28.0,Married,,Contract,3.0,23500.0,577.0,3500.0,8000.0,12 months,Rent,No,Yes
+APP10189,2025-03-12,35.0,Single,High School,Salaried,4.0,41800.0,814.0,19900.0,12000.0,60 months,Rent,No,Yes
+APP10691,2025-09-03,39.0, married ,Doctorate,Self-Employed,7.0,46500.0,771.0,5200.0,23000.0,60 months,Rent,No,Yes
+APP10935,2025-12-10,44.0,Single,Master,Salaried,7.0,39900.0,647.0,10600.0,21500.0,36 months,Own,Yes,No
+APP10793,2025-10-13,44.0,Married,Master,Self-Employed,8.0,102100.0,734.0,33900.0,89000.0,36 months,Own,No,Yes
+APP10165,2025-03-01,36.0,Single,Bachelor,salaried,5.0,,708.0,5600.0,7000.0,36 months,Mortgage,No,Yes
+APP10998,2025-12-31,21.0,Single,High School,Salaried,,47900.0,738.0,15600.0,26000.0,24 months,Own,No,Yes
+APP10577,2025-07-23,49.0,Married,Bachelor,Salaried,13.0,38400.0,617.0,13900.0,44500.0,12 months,Rent  ,No,No
+APP10845,2025-10-31,33.0,Divorced,Bachelor,Contract,8.0,21200.0,657.0,7100.0,7000.0,24 months,Mortgage,Yes,No
+APP10697,2025-09-06,21.0,Single,Master,Contract,1.0,39600.0,676.0,7200.0,12500.0,36 months,Mortgage,No,Yes
+APP10248,2025-03-29,49.0,Married,Bachelor,Salaried,17.0,36100.0,679.0,8800.0,7000.0,36 months,Rent,No,Yes
+APP10859,2025-11-05,50.0,Married,High School,Salaried,18.0,47400.0,723.0,13300.0,22000.0,36 months,Rent,No,Yes
+APP10776,2025-10-08,48.0,Married,Bachelor,Salaried,4.0,42900.0,682.0,6600.0,17500.0,36 months,Mortgage,No,Yes
+APP10009,2025-01-05,24.0,Married,Bachelor,Self-Employed,3.0,57200.0,735.0,9800.0,14000.0,12 months,Own,No,Yes
+APP10760,2025-10-01,45.0,Single,BACHELOR,Contract,14.0,28700.0,,14600.0,8500.0,36 months,Rent,No,Yes
+APP10075,2025-01-28,30.0,Married,Bachelor,Self-Employed  ,3.0,55000.0,666.0,33800.0,22500.0,36 months,Rent,No,No
+APP10867,2025-11-08,29.0,Married, High School,Salaried,3.0,41900.0,631.0,29000.0,26500.0,48 months,Rent,No,No
+APP10141,2025-02-20,41.0,Married,High School,Self-Employed,9.0,61500.0,538.0,26200.0,13500.0,12 months,Rent,Yes,No
+APP10947,2025-12-15,51.0,Married,Master,Contract,11.0,51900.0,718.0,0.0,25500.0,24 months,Rent,No,Yes
+APP10471,2025-06-11,37.0,Single,Bachelor,Contract,,,741.0,12800.0,9000.0,60 months,mortgage,No,Yes
+APP10324,2025-04-19,56.0,Married,High School,Self-Employed,2.0,26100.0,622.0,7300.0,7000.0,36 months,Mortgage,No,Yes
+APP10854,2025-11-02,21.0,Divorced,Doctorate,Salaried,1.0,57000.0,752.0,16200.0,12000.0,12 months,Rent,No,Yes
+APP10945,2025-12-15,38.0,Single  ,Bachelor  , salaried ,8.0,37900.0,,8400.0,10500.0,36 months,Rent,No,No
+APP10101,2025-02-08,39.0,Married,High School,Salaried,2.0,29100.0,598.0,0.0,8500.0,60 months,Rent,No,Yes
+APP10666,2025-08-25,39.0,Divorced,High School,Salaried,10.0,35800.0,653.0,9500.0,15000.0,36 months,Own,No,Yes
+APP10702,2025-09-07,27.0, Single,Bachelor,Salaried,5.0,44400.0,594.0,8600.0,8000.0,24 months,Mortgage,No,Yes
+APP10295,2025-04-10,45.0,married,Bachelor  ,Salaried,15.0,51900.0,761.0,5600.0,8000.0,36 months,Own,No,Yes
+APP10390,2025-05-12,27.0,Divorced,Bachelor,Self-Employed,1.0,71700.0,634.0,9700.0,22000.0,12 months, rent ,No,No
+APP10355,2025-04-30,21.0,Single,Bachelor  ,Contract,0.0,13600.0,587.0,2600.0,6000.0,36 months,Rent,No,No
+APP10924,2025-12-07,46.0, married ,High School,Self-Employed,5.0,281900.0,701.0,105700.0,90500.0,48 months,Rent,No,No
+APP10922,2025-12-06,56.0,Single,Bachelor,Salaried,19.0,35100.0,765.0,6100.0,13500.0,48 months,RENT,No,Yes
+APP11000,2025-12-31,41.0,Single,Bachelor,Salaried,3.0,36400.0,628.0,6600.0,25500.0,36 months,Own,No,Yes
+APP10664,2025-08-25,44.0,Divorced,High School,Contract,11.0,37800.0,768.0,10700.0,14000.0,36 months,Rent,No,No
+APP10556,2025-07-15,33.0,Married,Master,Salaried,7.0,53400.0,686.0,5100.0,12000.0,24 months,Rent,No,Yes
+APP10306,2025-04-12,41.0,Married,High School,Self-Employed,7.0,33600.0,638.0,8700.0,5500.0,60 months,Mortgage,No,Yes
+APP10239,2025-03-25,39.0,Single,Doctorate,Self-Employed,12.0,47900.0,563.0,14200.0,11500.0,60 months,Own,Yes,No
+APP10503,2025-06-24,21.0,Single,High School,Salaried,0.0,33000.0,634.0,4400.0,14500.0,24 months,Mortgage,No,Yes
+APP10905,2025-11-30,53.0,Married,Master,Salaried,21.0,69600.0,608.0,32400.0,17000.0,60 months, own ,Yes,No
+APP10251,2025-03-30,42.0,Married,High School,Salaried,3.0,19100.0,689.0,11100.0,5000.0,60 months,Own,No,Yes
+APP10597,2025-07-30,41.0,Married,High School,Salaried,12.0,44600.0,694.0,12000.0,11000.0,12 months,Own,No,Yes
+APP10709,2025-09-09,28.0,Single,Bachelor,Salaried,2.0,29700.0,646.0,9100.0,10000.0,60 months,Own,No,No
+APP10853,2025-11-02,35.0,Married,Bachelor,Salaried  ,7.0,80900.0,782.0,5000.0,30500.0,60 months, rent ,No,Yes
+APP10490,2025-06-19,31.0,Single,High School,Salaried,6.0,33000.0,696.0,4000.0,17500.0,48 months,Rent,No,No
+APP10882,2025-11-16,44.0, Married,Bachelor,Salaried,13.0,51900.0,550.0,31100.0,43000.0,24 months,Rent,No,No
+APP10425,2025-05-24,37.0,Married,Doctorate,Self-Employed,3.0,90000.0,681.0,10900.0,37000.0,60 months,Rent,No,Yes
+APP10902,2025-11-28,40.0,Single,High School,Salaried,3.0,25400.0,669.0,10000.0,11000.0,60 months,Mortgage,No,No
+APP10164,2025-03-01,54.0, Married,Bachelor,Salaried,12.0,43300.0,687.0,9100.0,16000.0,36 months,Mortgage,No,No
+APP10045,2025-01-19,49.0,married,High School, salaried ,9.0,32900.0,761.0,3300.0,9000.0,48 months,Rent,No,Yes
+APP10026,2025-01-12,45.0,Married,master,Salaried,4.0,48600.0,675.0,6100.0,22000.0,36 months, own ,No,Yes
+APP10887,2025-11-19,46.0,Married,Bachelor,Salaried,12.0,47900.0,639.0,22600.0,11500.0,60 months,Own,No,No
+APP10177,2025-03-06,21.0,Single,High School,Salaried,1.0,,775.0,2500.0,9500.0,24 months,Rent,No,Yes
+APP10473,2025-06-11,31.0, single ,BACHELOR,Salaried,7.0,88800.0,,8900.0,24000.0,24 months,Rent,No,Yes
+APP10359,2025-05-02,40.0,Married,,Salaried,15.0,69900.0,700.0,0.0,17000.0,36 months,Rent,No,Yes
+APP10559,2025-07-15,37.0,Single,Bachelor,Salaried,12.0,75500.0,566.0,21900.0,15000.0,12 months,Rent,Yes,No
+APP10293,2025-04-09,28.0,Married,High School,,3.0,,618.0,0.0,11500.0,48 months,Rent,Yes,No
+APP10563,2025-07-16,44.0,Married,Master,Self-Employed,10.0,116300.0,654.0,54600.0,29500.0,48 months,Own,No,Yes
+APP10016,2025-01-07,28.0,Single,High School,Salaried,,25500.0,735.0,14000.0,19500.0,36 months,Rent,No,No
+APP10894,2025-11-23,37.0,Divorced,Doctorate,Salaried,3.0,65100.0,561.0,12500.0,65500.0,36 months,Rent,No,No
+APP10770,2025-10-05,41.0,Single,,Salaried,13.0,77700.0,726.0,31700.0,23000.0,24 months,Mortgage,No,Yes
+APP10549,2025-07-11,33.0,Married,Bachelor,Salaried,4.0,37400.0,650.0,0.0,13500.0,12 months,Rent,Yes,Yes
+APP10243,2025-03-28,35.0,Single,Doctorate,Contract,10.0,,850.0,35200.0,35000.0,36 months,Own,No,Yes
+APP10900,2025-11-27,45.0,DIVORCED,Bachelor,Self-Employed,10.0,85800.0,776.0,28400.0,30000.0,36 months,Mortgage,No,Yes
+APP10841,2025-10-30,40.0,Married,Bachelor,Salaried,15.0,81900.0,715.0,24600.0,16000.0,24 months,Mortgage,No,Yes
+APP10991,2025-12-30,40.0,Married,Bachelor,Salaried,8.0,63700.0,825.0,2800.0,9500.0,24 months,Own,No,Yes
+APP10660,2025-08-24,49.0,DIVORCED,Bachelor,Salaried,14.0,35600.0,718.0,0.0,9000.0,24 months,Own,No,Yes
+APP10265,2025-04-01,36.0,Married,,contract,11.0,38900.0,745.0,20300.0,4000.0,60 months,Rent,No,Yes
+APP10453,2025-06-05,60.0, married ,High School,Contract,15.0,39700.0,721.0,17200.0,16500.0,48 months,Mortgage,No,Yes
+APP10057,2025-01-22,31.0,Single,High School,Salaried,6.0,48600.0,617.0,10600.0,15500.0,24 months,Mortgage,Yes,No
+APP10119,2025-02-13,54.0,Married,High School,Self-Employed,14.0,30700.0,722.0,8600.0,9000.0,60 months,OWN,No,Yes
+APP10513,2025-06-27,46.0,Married,,Salaried,17.0,74400.0,712.0,3700.0,12000.0,36 months,Own,No,Yes
+APP10600,2025-07-31,52.0,Married,Bachelor,Self-Employed,4.0,41000.0,595.0,7600.0,7500.0,36 months,Own,No,No
+APP10031,2025-01-14,36.0,Married,Bachelor,Salaried,,48300.0,649.0,9800.0,14500.0,60 months,Own,No,Yes
+APP10670,2025-08-26,21.0,Married,Master,Salaried,1.0,50700.0,737.0,5600.0,13500.0,60 months,Mortgage,No,Yes
+APP10373,2025-05-06,32.0,SINGLE,Bachelor,Salaried,10.0,49500.0,754.0,1100.0,11000.0,12 months,Mortgage,No,Yes
+APP10118,2025-02-13,21.0,single,Bachelor,Salaried,1.0,44800.0,728.0,5900.0,11000.0,60 months,Rent,No,Yes
+APP10553,2025-07-12,50.0,Married,Doctorate,Salaried,4.0,164000.0,725.0,106300.0,94000.0,48 months,Own,No,No
+APP10431,2025-05-27,34.0, married ,High School,Salaried,8.0,22400.0,699.0,9600.0,13000.0,60 months,Rent,No,No
+APP10378,2025-05-08,36.0,Married,Master,,8.0,63000.0,656.0,36400.0,20500.0,36 months,Rent,No,No
+APP10454,2025-06-05,23.0,Single,Bachelor,Salaried,1.0,69000.0,625.0,24800.0,28500.0,48 months,Rent,No,No
+APP10145,2025-02-21,33.0,Single,High School,Salaried,5.0,16600.0,727.0,4600.0,9500.0,48 months,Rent,No,Yes
+APP10286,2025-04-07,42.0,Married,High School,Salaried,,68800.0,,27500.0,13500.0,60 months,Rent,No,Yes
+APP10525,2025-07-04,41.0,Single, High School,Salaried,17.0,,583.0,13200.0,25500.0,60 months,Mortgage,Yes,No
+APP10401,2025-05-15,57.0, Married,High School,Contract,9.0,51900.0,799.0,12100.0,15000.0,12 months,Mortgage,No,Yes
+APP10560,2025-07-15,51.0,Married,Bachelor,Salaried,17.0,88500.0,730.0,16800.0,40500.0,48 months,Mortgage,No,Yes
+APP10724,2025-09-19,52.0,Married,Bachelor, Self-Employed,7.0,27300.0,,0.0,5500.0,12 months,Own,No,Yes
+APP10129,2025-02-16,46.0,Married,,Salaried,20.0,79400.0,653.0,36600.0,70500.0,36 months,Own,No,No
+APP10049,2025-01-20,28.0,Single,Bachelor,Salaried,1.0,39500.0,708.0,2000.0,23000.0,36 months,Own,No,Yes
+APP10520,2025-07-02,33.0,Single,Bachelor,Self-Employed,8.0,58300.0,750.0,3900.0,4500.0,12 months,Own,Yes,Yes
+APP10121,2025-02-14,34.0,Divorced,High School, self-employed ,8.0,18800.0,720.0,4600.0,6000.0,12 months,Rent,No,Yes
+APP10394,2025-05-13,41.0,Married,Master,,9.0,46100.0,709.0,8500.0,12000.0,48 months, Mortgage,No,No
+APP10134,2025-02-18,25.0,Single,Bachelor,Contract,3.0,31700.0,714.0,2700.0,11500.0,36 months,Rent,No,No
+APP10949,2025-12-16,32.0,Single,High School,Contract,5.0,29700.0,624.0,0.0,14500.0,36 months,Rent,No,No
+APP10892,2025-11-23,36.0,Married,High School,Salaried,4.0,28100.0,687.0,900.0,8500.0,60 months,Own,No,Yes
+APP10915,2025-12-03,44.0,Married,High School,Self-Employed,13.0,36300.0,623.0,11200.0,10500.0,24 months,own,No,No
+APP10322,2025-04-18,51.0,Married,High School,Salaried,13.0,48500.0,763.0,34000.0,8000.0,48 months,Mortgage,No,No
+APP10034,2025-01-16,54.0,Married, Bachelor,Salaried,23.0,96300.0,755.0,34100.0,36500.0,36 months,Rent,No,Yes
+APP10980,2025-12-27,33.0,Single,High School,Salaried,6.0,27900.0,637.0,5000.0,11000.0,24 months,Rent,Yes,No
+APP10029,2025-01-13,28.0,Single,,Salaried,4.0,20200.0,,6000.0,7000.0,36 months,Rent,No,Yes
+APP10874,2025-11-10,55.0,Married,Bachelor,Salaried,17.0,37900.0,741.0,21000.0,10500.0,60 months,Mortgage,No,Yes
+APP10746,2025-09-26,32.0,Single,Bachelor,Salaried,5.0,50700.0,729.0,32600.0,15000.0,60 months,Mortgage,No,Yes
+APP10002,2025-01-02,45.0,Married,Master,Salaried,8.0,40400.0,625.0,18500.0,8000.0,36 months,Own,No,No
+APP10678,2025-08-29,26.0,Single,Master,Contract,2.0,77300.0,753.0,5100.0,25500.0,48 months,MORTGAGE,No,Yes
+APP10748,2025-09-27,35.0,Married,Master,Contract,9.0,64300.0,686.0,27800.0,14500.0,24 months,Own,No,Yes
+APP10488,2025-06-17,25.0,Divorced,Bachelor,Self-Employed,2.0,31500.0,708.0,16700.0,15500.0,24 months,Own,No,No
+APP10541,2025-07-09,43.0,Married,High School,Contract,5.0,28100.0,635.0,2800.0,10500.0,36 months,Rent,No,No
+APP10957,2025-12-17,54.0,Single,Master,Salaried  ,13.0,43400.0,673.0,9100.0,27500.0,36 months,Mortgage,No,Yes
+APP10393,2025-05-13,35.0,Married,Doctorate,Self-Employed,3.0,45800.0,770.0,0.0,23000.0,36 months,Rent,No,Yes
+APP10533,2025-07-07,29.0,Single,High School,CONTRACT,4.0,15000.0,677.0,9400.0,5500.0,36 months, mortgage ,No,No
+APP10229,2025-03-22,52.0,Married,master,Salaried,,44700.0,797.0,17000.0,26000.0,12 months,Mortgage,No,Yes
+APP10868,2025-11-08,25.0,Single,Doctorate,Contract,3.0,55500.0,567.0,30900.0,16000.0,36 months,Rent,No,No
+APP10032,2025-01-14,44.0,Married,Bachelor,Salaried,15.0,72800.0,,15300.0,8000.0,12 months, own ,No,Yes
+APP10890,2025-11-20,38.0,Married,High School,Salaried,4.0,22800.0,796.0,0.0,12000.0,12 months,Rent,No,Yes
+APP10558,2025-07-15,44.0,Single,High School,Salaried,6.0,42300.0,660.0,2300.0,14000.0,36 months,Rent,No,Yes
+APP10986,2025-12-28,42.0,Married, bachelor ,Self-Employed,4.0,73900.0,691.0,11000.0,10500.0,12 months,Mortgage,No,Yes
+APP10099,2025-02-08,21.0,Single, Doctorate,salaried,0.0,94400.0,640.0,15500.0,32000.0,36 months,Mortgage,No,Yes
+APP10235,2025-03-24,47.0,Married,High School,Self-Employed,8.0,113500.0,674.0,17300.0,49500.0,48 months,Rent,No,Yes
+APP10184,2025-03-09,44.0,Married,Master,Salaried,16.0,65100.0,659.0,8800.0,47000.0,24 months,Rent,No,Yes
+APP10634,2025-08-15,,Married,High School,Salaried,10.0,48400.0,,6800.0,29500.0,60 months,Rent,No,Yes
+APP10084,2025-01-30,34.0,Married,Bachelor,Salaried,5.0,24400.0,623.0,2400.0,11000.0,12 months,RENT,Yes,No
+APP10132,2025-02-18,40.0,Divorced,High School,Self-Employed  ,8.0,21700.0,713.0,7600.0,3500.0,60 months,Mortgage,No,Yes
+APP10166,2025-03-01,30.0,divorced,High School,,3.0,41700.0,692.0,11200.0,27500.0,60 months,Rent,No,No
+APP10849,2025-11-02,48.0,Married,High School,Self-Employed,10.0,35000.0,593.0,0.0,13500.0,48 months,Rent,No,Yes
+APP10942,2025-12-13,50.0,Single,Bachelor,salaried,17.0,33800.0,776.0,8000.0,50500.0,12 months,rent,No,No
+APP10430,2025-05-26,35.0,Married,Master,Self-Employed,1.0,40700.0,529.0,13500.0,11000.0,24 months,Mortgage,No,No
+APP10217,2025-03-19,36.0,Married,High School,Salaried,3.0,17800.0,633.0,7800.0,5500.0,60 months,Rent,No,Yes
+APP10107,2025-02-10,36.0,Single,Bachelor,,7.0,65200.0,720.0,0.0,39500.0,48 months,Rent,No,No
+APP10463,2025-06-09,54.0,Divorced,Master,Salaried,6.0,91600.0,725.0,25600.0,23500.0,12 months,Own,No,Yes
+APP10468,2025-06-09,36.0,Married,High School, salaried ,8.0,40600.0,640.0,0.0,32000.0,60 months,Rent,No,Yes
+APP10440,2025-05-30,29.0,Married,Bachelor,Self-Employed,2.0,37100.0,665.0,6400.0,48000.0,48 months,Rent,No,No
+APP10954,2025-12-17,42.0,Married,Bachelor,Salaried,10.0,98600.0,646.0,9100.0,45500.0,12 months,rent,No,Yes
+APP10727,2025-09-21,40.0,Married,Master,Salaried,16.0,29900.0,593.0,11200.0,11500.0,48 months,Rent,Yes,No
+APP10014,2025-01-07,31.0,Single,High School,Salaried,6.0,39700.0,673.0,18800.0,7000.0,24 months,Rent,No,No
+APP10231,2025-03-23,21.0,Single,Master,Salaried,0.0,46400.0,750.0,7200.0,22500.0,36 months,Rent,No,Yes
+APP10839,2025-10-29,31.0,Divorced,Bachelor,Salaried,0.0,28200.0,533.0,6400.0,9000.0,12 months,Rent,No,No
+APP10234,2025-03-24,43.0,Divorced,Master,contract,8.0,41800.0,698.0,15800.0,10000.0,48 months,own,No,Yes
+APP10152,2025-02-24,47.0,Married,High School,Salaried  ,7.0,21400.0,690.0,6600.0,5500.0,24 months,Mortgage,No,Yes
+APP10688,2025-09-02,41.0,Married,Bachelor,,3.0,,713.0,0.0,34000.0,24 months,Rent,No,Yes
+APP10827,2025-10-26,46.0,Married,Bachelor,Self-Employed,9.0,,587.0,4200.0,19000.0,60 months,Own,Yes,No
+APP10837,2025-10-29,29.0,Divorced,High School,Salaried,4.0,42100.0,763.0,15500.0,47000.0,36 months,Rent,No,No
+APP10448,2025-06-03,41.0,Married,Bachelor, Salaried,11.0,34100.0,720.0,0.0,9500.0,36 months,Own,No,Yes
+APP10493,2025-06-20,32.0,Single,Bachelor,Salaried,8.0,36400.0,646.0,13700.0,6000.0,12 months,Mortgage,Yes,No
+APP10933,2025-12-10,33.0,Married,High School,Self-Employed,3.0,28900.0,724.0,10300.0,13000.0,36 months,Mortgage,No,Yes
+APP10495,2025-06-21,28.0,Single,High School,Self-Employed,4.0,28500.0,700.0,17000.0,17500.0,36 months,Mortgage,Yes,No
+APP10332,2025-04-22,33.0,Married,Master,Self-Employed,3.0,27000.0,620.0,2500.0,18000.0,48 months,Rent,No,No
+APP10613,2025-08-06,30.0,Single,Master,Salaried,7.0,41700.0,615.0,11000.0,16500.0,60 months,Rent,No,Yes
+APP10825,2025-10-26,49.0, Married,BACHELOR,Self-Employed,12.0,60100.0,653.0,8700.0,27000.0,24 months,Own,No,Yes
+APP10675,2025-08-28,36.0,Married,High School,Salaried,2.0,33700.0,695.0,3300.0,12000.0,48 months,Mortgage,No,Yes
+APP10692,2025-09-04,50.0,Married,Master,Salaried,24.0,58900.0,820.0,10900.0,26000.0,12 months,Rent,No,Yes
+APP10103,2025-02-09,26.0,Single,Doctorate,Self-Employed,4.0,,660.0,0.0,15500.0,36 months,Rent,No,Yes
+APP10742,2025-09-25,31.0, Single,Bachelor,Self-Employed,3.0,18500.0,638.0,3000.0,5000.0,36 months,Rent,No,Yes
+APP10973,2025-12-25,25.0,Single,Master,Salaried,3.0,36800.0,771.0,7700.0,16000.0,36 months,Mortgage,No,Yes
+APP10710,2025-09-09,55.0,Married,High School,Self-Employed,20.0,49600.0,733.0,12800.0,25500.0,36 months,OWN,No,Yes
+APP10093,2025-02-03,49.0,Married,Bachelor,Salaried,5.0,,688.0,5100.0,14000.0,24 months,Rent,No,Yes
+APP10528,2025-07-04,21.0,Single,High School,Self-Employed,0.0,21800.0,711.0,11200.0,8000.0,12 months,Mortgage,No,No
+APP10732,2025-09-22,45.0,Married,Doctorate, Self-Employed,,136900.0,649.0,0.0,73000.0,60 months,Rent,No,Yes
+APP10106,2025-02-10,21.0,Single,Bachelor,Salaried,0.0,56800.0,745.0,20400.0,16500.0,36 months,Mortgage,No,Yes
+APP10809,2025-10-21,30.0, divorced ,Bachelor, salaried ,6.0,43000.0,707.0,17900.0,23500.0,60 months,Rent,No,No
+APP10689,2025-09-02,28.0,Married,High School,Self-Employed,4.0,23500.0,793.0,13800.0,6000.0,48 months, rent ,No,Yes
+APP10767,2025-10-04,43.0,Married,Bachelor, Salaried,15.0,,575.0,0.0,7000.0,48 months,Rent,No,No
+APP10346,2025-04-27,25.0,Single,Bachelor,Salaried,1.0,38700.0,608.0,10300.0,15000.0,48 months,Own,No,No
+APP10490,2025-06-19,31.0,Single,High School,Salaried,6.0,33000.0,696.0,4000.0,17500.0,48 months,Rent,No,No
+APP10109,2025-02-10,47.0,Married,Bachelor,Self-Employed,12.0,39300.0,700.0,7200.0,13000.0,60 months,Own,No,Yes
+APP10076,2025-01-29,40.0,Single,High School,Salaried,4.0,41200.0,725.0,7000.0,12000.0,60 months,Mortgage,No,Yes
+APP10925,2025-12-07,40.0,Married,Bachelor,Salaried,5.0,38400.0,616.0,18700.0,28000.0,60 months,Rent,Yes,No
+APP10784,2025-10-11,42.0,Single,Bachelor,Contract,9.0,17000.0,681.0,3500.0,15000.0,36 months,Mortgage,No,No
+APP10098,2025-02-07,43.0,Divorced,,Salaried,7.0,49600.0,723.0,10400.0,15500.0,48 months,Own,No,Yes
+APP10414,2025-05-19,35.0,Married  ,Bachelor,Self-Employed,3.0,66400.0,682.0,0.0,21000.0,60 months,Mortgage,No,Yes
+APP10222,2025-03-21,37.0,Single,High School,Self-Employed,7.0,34500.0,565.0,13300.0,6500.0,36 months, Rent,No,No
+APP10071,2025-01-28,49.0,Single,Bachelor,Salaried,15.0,46700.0,999.0,9200.0,15500.0,36 months,Mortgage,No,Yes
+APP10331,2025-04-22,26.0,Single,BACHELOR,Contract,1.0,35300.0,677.0,5200.0,17500.0,12 months,Rent  ,No,No
+APP10792,2025-10-13,34.0,Divorced  ,Master,Self-Employed,3.0,46900.0,645.0,0.0,32000.0,12 months, Rent,No,Yes
+APP10914,2025-12-03,30.0,Single,High School,,6.0,55900.0,747.0,6400.0,14000.0,60 months, mortgage ,No,Yes
+APP10164,2025-03-01,54.0, Married,Bachelor,Salaried,12.0,43300.0,687.0,9100.0,16000.0,36 months,Mortgage,No,No
+APP10317,2025-04-16,45.0,Married,Master,Salaried,6.0,90600.0,711.0,16700.0,18000.0,36 months,Mortgage,No,Yes
+APP10400,2025-05-15,43.0,Married,Bachelor, salaried ,9.0,35700.0,711.0,2300.0,13500.0,48 months,Rent,No,Yes
+APP10290,2025-04-08,27.0,MARRIED, bachelor ,Salaried,4.0,70600.0,668.0,15400.0,68500.0,36 months,Mortgage,No,No
+APP10966,2025-12-21,28.0,Single,High School,Self-Employed,4.0,28900.0,605.0,13000.0,5000.0,36 months,MORTGAGE,No,No
+APP10851,2025-11-02,55.0,Divorced,High School,Salaried,22.0,99000.0,832.0,6700.0,67500.0,48 months,Rent,No,Yes
+APP10897,2025-11-25,27.0,Single,High School,Salaried,2.0,42000.0,586.0,0.0,7000.0,36 months,Mortgage,Yes,No
+APP10126,2025-02-15,39.0,Single,Bachelor,Salaried,8.0,35600.0,632.0,0.0,18000.0,12 months,Own,No,Yes
+APP10207,2025-03-17,42.0,Married,BACHELOR,Self-Employed,3.0,,777.0,0.0,6500.0,36 months,Own,No,Yes
+APP10824,2025-10-25,44.0,Married,High School,Self-Employed,18.0,61300.0,666.0,0.0,23000.0,48 months,Mortgage,Yes,Yes
+APP10417,2025-05-21,51.0,Married,High School,Salaried,4.0,25900.0,647.0,11000.0,15000.0,24 months,Mortgage,Yes,No
+APP10102,2025-02-08,42.0,Married,Master,Salaried,10.0,67500.0,605.0,29000.0,14000.0,48 months,Rent  ,Yes,No
+APP10223,2025-03-21,37.0,Married,Bachelor,Salaried,13.0,63300.0,718.0,14700.0,34500.0,24 months,Rent,No,Yes
+APP10242,2025-03-27,38.0,Single,Bachelor,Salaried,11.0,100900.0,546.0,13400.0,52000.0,12 months,Rent,Yes,No
+APP10174,2025-03-05,,Married,Bachelor,Salaried,18.0,60900.0,768.0,22600.0,58000.0,60 months,Own,No,Yes
+APP10574,2025-07-20,40.0,Married,High School,Contract,10.0,27100.0,713.0,9300.0,9500.0,48 months, Mortgage,No,No
+APP10311,2025-04-13,49.0,Married,Bachelor,Contract,11.0,39200.0,707.0,12400.0,16000.0,24 months,Rent,No,Yes
+APP10079,2025-01-29,39.0,Single,High School,Salaried,6.0,20400.0,707.0,5800.0,5000.0,48 months,Rent,No,Yes
+APP10500,2025-06-23,41.0,Married,High School,Salaried,17.0,,695.0,7100.0,9000.0,60 months,Rent,No,No
+APP10775,2025-10-07,65.0,Married,Bachelor,Salaried,19.0,32500.0,689.0,8800.0,11500.0,60 months,Own,No,Yes
+APP10274,2025-04-03,24.0,Single,High School,Salaried,1.0,32100.0,682.0,12800.0,27500.0,36 months,Mortgage,No,No
+APP10434,2025-05-28,43.0,Married,Master,Contract,20.0,55300.0,754.0,8800.0,28000.0,24 months,Own,No,Yes
+APP10407,2025-05-17,41.0,Married,Bachelor,Salaried,8.0,30700.0,793.0,6900.0,9500.0,60 months,Rent,No,Yes
+APP10460,2025-06-08,40.0,Married,Doctorate,Salaried,10.0,243100.0,655.0,101300.0,147500.0,36 months,Mortgage,No,No
+APP10467,2025-06-09,49.0,Married,Bachelor,Self-Employed,23.0,71200.0,655.0,20500.0,30000.0,12 months,Rent,Yes,Yes
+APP10631,2025-08-14,46.0,Married,Bachelor,Self-Employed,16.0,128400.0,765.0,25100.0,73500.0,36 months,Mortgage,No,Yes
+APP10948,2025-12-15,43.0,Married,Bachelor,Self-Employed,10.0,47500.0,,10200.0,27000.0,36 months,Rent  ,No,Yes
+APP10228,2025-03-22,39.0,Married,Bachelor,Self-Employed,7.0,44900.0,706.0,6200.0,14000.0,36 months,Own,No,Yes
+APP10707,2025-09-09,45.0,married,Bachelor,Salaried,9.0,,686.0,26700.0,21500.0,24 months,Rent,No,No
+APP10516,2025-06-28,49.0,Married,High School,Self-Employed,12.0,51100.0,673.0,26500.0,12000.0,48 months,Own,No,No
+APP10952,2025-12-17,26.0,Single,High School,salaried,3.0,49900.0,651.0,2500.0,13000.0,12 months,Rent,Yes,No
+APP10695,2025-09-05,32.0,Married,Bachelor, salaried ,1.0,40500.0,685.0,27400.0,16500.0,36 months,Rent,No,No
+APP10159,2025-02-26,43.0,Single,Doctorate,Salaried,6.0,78300.0,659.0,800.0,29500.0,60 months,Mortgage,No,Yes
+APP10612,2025-08-05,21.0,Single,Bachelor,Salaried,0.0,32400.0,624.0,5900.0,38500.0,12 months,Rent,Yes,No
+APP10335,2025-04-24,31.0,Married,Master,Self-Employed,3.0,30700.0,495.0,23000.0,32500.0,60 months,Rent,Yes,No
+APP10276,2025-04-05,37.0,Married,Master,Salaried,3.0,31500.0,703.0,14100.0,10000.0,36 months,Rent,No,Yes
+APP10668,2025-08-26,51.0,Married  ,Bachelor,SALARIED,10.0,,725.0,7300.0,6000.0,36 months,Mortgage,No,Yes
+APP10728,2025-09-21,37.0,Married,bachelor, self-employed ,3.0,50100.0,749.0,12300.0,20000.0,36 months,Rent,No,Yes
+APP10527,2025-07-04,,Divorced,High School,Contract,5.0,,800.0,0.0,13000.0,12 months,mortgage,No,Yes
+APP10543,2025-07-10,45.0, married ,Doctorate,Contract,16.0,79300.0,693.0,21800.0,11000.0,36 months,Own,No,Yes
+APP10246,2025-03-29,26.0,Married,High School,Contract,5.0,28800.0,729.0,13700.0,10000.0,12 months,Mortgage,No,No
+APP10300,2025-04-11,43.0,Married, Bachelor,Salaried,1.0,41100.0,646.0,3000.0,11500.0,48 months,Own,No,Yes
+APP10362,2025-05-02,51.0,Divorced,High School,Self-Employed,16.0,51800.0,753.0,29000.0,10000.0,60 months,Own,No,Yes
+APP10105,2025-02-10,33.0,Divorced,Bachelor,Self-Employed,7.0,,651.0,0.0,19000.0,48 months,Rent,No,Yes
+APP10328,2025-04-21,43.0,Married,Bachelor,Salaried,8.0,38900.0,719.0,15600.0,33000.0,36 months,Own,No,No
+APP10987,2025-12-29,41.0,Single,High School,Self-Employed,5.0,22300.0,740.0,4600.0,12500.0,12 months,Rent,No,Yes
+APP10088,2025-02-01,33.0,Married  ,Master,Salaried,3.0,61700.0,760.0,0.0,14500.0,36 months,Rent,No,Yes
+APP10496,2025-06-21,34.0,Divorced,Master,Salaried,6.0,52000.0,,0.0,30500.0,36 months,Own,No,Yes
+APP10649,2025-08-19,30.0,Single,Bachelor,Self-Employed,7.0,51800.0,655.0,25200.0,22500.0,24 months,Rent,No,No
+APP10350,2025-04-29,50.0,Married,High School,Salaried,9.0,,690.0,6600.0,29000.0,60 months,Mortgage,No,Yes
+APP10275,2025-04-04,44.0,Married,Master,Contract,12.0,68400.0,732.0,7900.0,18000.0,24 months,Mortgage,No,Yes
+APP10594,2025-07-28,39.0,Married  ,Bachelor,Salaried,7.0,59400.0,776.0,27900.0,18000.0,36 months,Rent,No,Yes
+APP10257,2025-03-31,22.0,Married,High School,Self-Employed,1.0,41200.0,719.0,17000.0,23500.0,24 months,Mortgage,No,No
+APP10835,2025-10-27,38.0,Divorced,Bachelor,Salaried,8.0,31800.0,672.0,5700.0,16500.0,48 months,Own,Yes,No
+APP10040,2025-01-18,28.0,Single,,Self-Employed,1.0,27000.0,579.0,12200.0,12000.0,60 months,Rent,No,No
+APP10630,2025-08-12,43.0,single,Master  ,,20.0,119000.0,631.0,78400.0,49500.0,36 months,Rent,No,No
+APP10818,2025-10-23,21.0,Single,,Salaried,0.0,37000.0,695.0,17800.0,16000.0,36 months,Mortgage,No,No
+APP10658,2025-08-23,49.0,Married,High School,Salaried,12.0,42800.0,735.0,14100.0,26000.0,24 months,Rent,No,Yes
+APP10283,2025-04-06,36.0,Married,Master,Salaried,11.0,69500.0,683.0,13100.0,30500.0,36 months,Rent,No,Yes
+APP10506,2025-06-24,46.0, Married,Bachelor,SALARIED,16.0,46000.0,,11600.0,33000.0,36 months,Mortgage,No,Yes
+APP10537,2025-07-08,29.0,Single,high school,Salaried,2.0,43100.0,579.0,16000.0,24500.0,60 months,Mortgage,Yes,No
+APP10469,2025-06-09,33.0,Married,Bachelor,Self-Employed,4.0,56800.0,784.0,5900.0,29000.0,24 months,Mortgage  ,No,Yes
+APP10299,2025-04-11,27.0,Married,BACHELOR,Self-Employed  ,4.0,37900.0,706.0,23800.0,16000.0,24 months,Rent,No,No
+APP10262,2025-04-01,53.0,Single,High School,Salaried,14.0,48900.0,775.0,0.0,19000.0,60 months,Mortgage,No,Yes
+APP10796,2025-10-15,21.0,Single,Master,Contract,0.0,27600.0,516.0,7500.0,6000.0,60 months,Rent,No,No
+APP10833,2025-10-27,35.0,Divorced,DOCTORATE, Self-Employed,5.0,,538.0,19600.0,33000.0,36 months,Rent,Yes,No
+APP10475,2025-06-12,40.0, married ,Bachelor,Contract,8.0,37300.0,790.0,0.0,9000.0,60 months,Mortgage,No,Yes
+APP10808,2025-10-19,44.0,Married,Bachelor,Salaried,4.0,72100.0,646.0,10000.0,19000.0,36 months,Own,No,Yes
+APP10759,2025-09-30,33.0,Single,Bachelor,Salaried,8.0,20400.0,849.0,11400.0,6500.0,48 months,Mortgage,No,Yes
+APP10972,2025-12-25,38.0,Married,High School,Self-Employed,7.0,,713.0,20000.0,22500.0,36 months,Rent,No,No
+APP10555,2025-07-13,,Married,High School,Self-Employed,9.0,52900.0,817.0,16800.0,12000.0,24 months,Mortgage,No,Yes
+APP10544,2025-07-10,26.0,Single,High School,Self-Employed,3.0,22200.0,629.0,0.0,7500.0,48 months,Mortgage,No,No
+APP10428,2025-05-25,23.0,Single,Master,Self-Employed,1.0,87900.0,630.0,22600.0,28500.0,12 months,Rent,No,No
+APP10650,2025-08-20,33.0,Single,High School,Salaried,1.0,26500.0,745.0,5600.0,6500.0,24 months,Rent,No,Yes
+APP10333,2025-04-23,34.0,Married,Bachelor,Salaried,2.0,33100.0,760.0,4000.0,15500.0,60 months,Mortgage,No,No
+APP10773,2025-10-06,48.0,Married,Master,Salaried,6.0,59800.0,675.0,0.0,18500.0,12 months,Rent,No,Yes
+APP10548,2025-07-11,30.0,Single,Master,Salaried  ,4.0,53300.0,739.0,0.0,13500.0,36 months,Own,No,Yes
+APP10739,2025-09-24,40.0,Single,Bachelor,Self-Employed,6.0,75300.0,713.0,7700.0,15000.0,60 months,Mortgage,Yes,Yes
+APP10194,2025-03-13,29.0,Single, Bachelor, salaried ,6.0,30600.0,658.0,1000.0,15500.0,36 months,Rent,No,Yes
+APP10538,2025-07-09,31.0,Single,High School,Self-Employed,6.0,47300.0,690.0,21300.0,14500.0,24 months,Mortgage,No,No
+APP10838,2025-10-29,45.0,MARRIED, bachelor ,Self-Employed,6.0,82300.0,683.0,26100.0,48500.0,60 months,Own,No,Yes
+APP10605,2025-08-03,24.0,Single,,Salaried,1.0,26100.0,768.0,16600.0,6500.0,24 months,Rent,No,Yes
+APP10607,2025-08-03,60.0,Married,Bachelor,Salaried  ,24.0,43000.0,712.0,7300.0,10000.0,60 months,Own,No,Yes
+APP10421,2025-05-23,40.0,Married,Master,Salaried,9.0,70700.0,686.0,45500.0,13500.0,12 months,Rent,No,Yes
+APP10990,2025-12-29,33.0,Single,Master,Contract,7.0,33800.0,444.0,2000.0,11000.0,36 months,Rent,Yes,No
+APP10777,2025-10-08,52.0,Married,Bachelor,Self-Employed,14.0,70900.0,641.0,26800.0,38500.0,12 months,Mortgage,No,No
+APP10461,2025-06-08,51.0,Married,Master,Self-Employed,10.0,,737.0,11400.0,28000.0,12 months,Mortgage,No,Yes
+APP10304,2025-04-12,22.0,Single,Bachelor,Salaried,1.0,39000.0,799.0,12400.0,13500.0,60 months,Mortgage,No,Yes
+APP10423,2025-05-24,42.0,Married,Bachelor,Salaried,2.0,26200.0,618.0,6500.0,7000.0,12 months,Own,No,No
+APP10693,2025-09-04,33.0,Married,Bachelor, Salaried,7.0,63000.0,678.0,8600.0,11500.0,48 months,Rent,No,Yes
+APP10349,2025-04-29,28.0,Single,High School, Salaried,3.0,18100.0,686.0,0.0,5000.0,24 months,Rent,No,Yes
+APP10416,2025-05-21,37.0,MARRIED,High School,Salaried,7.0,34400.0,686.0,2800.0,29500.0,12 months,Rent  ,No,No
+APP10204,2025-03-16,47.0,Married,Bachelor,Salaried,9.0,35500.0,671.0,4000.0,7500.0,36 months,Own,No,Yes
+APP10160,2025-02-26,21.0,Single,Bachelor,Salaried,0.0,22000.0,701.0,3200.0,9000.0,36 months, rent ,No,Yes
+APP10651,2025-08-21,25.0,Single,Master,Self-Employed,0.0,92200.0,611.0,29200.0,29000.0,36 months,Rent,No,No
+APP10911,2025-12-01,45.0,Married,Bachelor,Salaried,12.0,41500.0,615.0,12200.0,12500.0,24 months,  MORTGAGE,No,No
+APP10713,2025-09-12,49.0,Married,Master,Salaried,8.0,37300.0,783.0,2500.0,14000.0,12 months,Own,No,Yes
+APP10409,2025-05-18,45.0,Single,High School,Salaried,9.0,58400.0,681.0,30800.0,69000.0,36 months,Own,No,No
+APP10913,2025-12-02,29.0,Single,Master,Salaried,2.0,34200.0,601.0,0.0,10500.0,12 months,Mortgage,No,Yes
+APP10206,2025-03-17,45.0,Divorced,High School,Contract  ,20.0,33400.0,642.0,3100.0,6000.0,48 months,Rent,No,Yes
+APP10087,2025-01-31,34.0,MARRIED,Bachelor,Self-Employed,5.0,45800.0,615.0,6700.0,10500.0,48 months,Rent,No,No
+APP10557,2025-07-15,54.0,Married,Bachelor,Salaried,3.0,70900.0,616.0,13700.0,13500.0,12 months,Mortgage,No,Yes
+APP10822,2025-10-25,38.0,Single,Bachelor  ,Self-Employed,6.0,45800.0,530.0,0.0,19500.0,48 months,Own,Yes,Yes
+APP10418,2025-05-22,32.0, married ,High School,Contract,2.0,20300.0,687.0,0.0,11500.0,60 months,Rent,No,Yes
+APP10383,2025-05-11,42.0,Single  ,,Salaried,2.0,25500.0,699.0,0.0,13000.0,36 months,Rent,No,Yes
+APP10918,2025-12-04,55.0,Divorced,Bachelor,,13.0,38800.0,814.0,13700.0,8000.0,24 months,Own,No,Yes
+APP10470,2025-06-10,34.0,Single,Bachelor,Salaried,5.0,40200.0,,18600.0,20500.0,36 months,Rent,No,No
+APP10512,2025-06-27,27.0,Single,High School,Salaried,,156700.0,700.0,69700.0,59500.0,48 months, Rent,No,No
+APP10542,2025-07-09,21.0, divorced ,Bachelor,Salaried,0.0,43800.0,781.0,18200.0,7000.0,12 months,Rent,No,Yes
+APP10319,2025-04-16,37.0,Single,Bachelor, salaried ,9.0,52200.0,643.0,21200.0,18500.0,60 months,Rent,No,No
+APP10507,2025-06-24,46.0,Married,Bachelor,Self-Employed,3.0,39100.0,660.0,3000.0,15500.0,60 months,RENT,No,Yes
+APP10148,2025-02-22,31.0,Single,High School,Salaried,6.0,32000.0,622.0,7600.0,15500.0,36 months,Rent,Yes,No
+APP10579,2025-07-24,38.0,Single,bachelor,Contract,13.0,73600.0,816.0,0.0,37500.0,36 months,Rent,No,Yes
+APP10906,2025-11-30,47.0,Married,High School,Salaried,6.0,36600.0,677.0,15300.0,17500.0,60 months,own,No,No
+APP10857,2025-11-04,21.0,Single,Bachelor,Self-Employed,0.0,52200.0,625.0,3800.0,16500.0,24 months,Mortgage,No,Yes
+APP10112,2025-02-11,32.0,Single,Bachelor,Self-Employed,3.0,70300.0,759.0,37400.0,11000.0,12 months,Rent,No,Yes
+APP10671,2025-08-27,26.0,Single,High School,Salaried,3.0,,709.0,11000.0,19500.0,60 months,Rent,Yes,No
+APP10523,2025-07-03,45.0,Divorced,High School,Salaried,14.0,56200.0,593.0,22100.0,25500.0,48 months,Mortgage,Yes,No
+APP10284,2025-04-06,35.0, Single,Bachelor,Self-Employed,5.0,28900.0,587.0,14900.0,12000.0,60 months,Own  ,No,No
+APP10455,2025-06-06,51.0,Married,Bachelor,Salaried,,33800.0,622.0,12500.0,14000.0,24 months,Mortgage,No,Yes
+APP10338,2025-04-24,56.0,Married,HIGH SCHOOL,Self-Employed,5.0,40400.0,720.0,0.0,16000.0,36 months, own ,No,Yes
+APP10073,2025-01-28,50.0, Married,Doctorate,,16.0,71900.0,,16100.0,8500.0,60 months,Rent,Yes,Yes
+APP10540,2025-07-09,34.0,Single,High School,Salaried,10.0,37700.0,645.0,13800.0,26000.0,60 months,Rent,Yes,No
+APP10610,2025-08-04,53.0,Single,High School,Salaried,10.0,25500.0,786.0,600.0,8500.0,48 months,Own,No,Yes
+APP10587,2025-07-25,21.0,Single,Master,Self-Employed,0.0,77700.0,740.0,13300.0,35000.0,48 months,MORTGAGE,No,Yes
+APP10871,2025-11-08,34.0,Single,High School,Self-Employed,1.0,25200.0,719.0,8000.0,11500.0,60 months,Mortgage,No,No
+APP10054,2025-01-21,40.0,Married,Bachelor,Self-Employed,15.0,34100.0,752.0,11400.0,18000.0,36 months,Rent,No,Yes
+APP10591,2025-07-27,38.0,Married,Bachelor,Self-Employed,3.0,43600.0,673.0,13800.0,22500.0,60 months,Own,No,No
+APP10062,2025-01-23,29.0,Single,High School,Contract,6.0,37200.0,762.0,13600.0,9500.0,12 months,Rent,No,Yes
+APP10814,2025-10-22,21.0,MARRIED,High School,Salaried,0.0,21000.0,529.0,3200.0,4500.0,60 months, rent ,Yes,No
+APP10584,2025-07-25,42.0,Married,Bachelor,Salaried,15.0,67400.0,759.0,4500.0,29000.0,24 months,Mortgage,No,Yes
+APP10272,2025-04-03,49.0,Married,Bachelor,Salaried,12.0,74600.0,685.0,0.0,23000.0,48 months,own,No,Yes
+APP10190,2025-03-12,45.0,Divorced,High School,Contract,7.0,27900.0,637.0,11200.0,4500.0,48 months,Rent,No,No
+APP10779,2025-10-09,36.0,Single,High School,Salaried,10.0,18100.0,684.0,3900.0,7000.0,48 months,Rent,No,Yes
+APP10347,2025-04-28,34.0,Single,Bachelor,Salaried,7.0,33500.0,625.0,0.0,11000.0,36 months,Own,No,Yes
+APP10085,2025-01-30,29.0,Single,Master,Salaried,1.0,59300.0,612.0,6200.0,20500.0,60 months,Rent,No,No
+APP10483,2025-06-15,47.0,Single,Master,Salaried,7.0,79500.0,702.0,16600.0,22000.0,12 months,Mortgage,No,Yes
+APP10376,2025-05-07,30.0,Divorced,High School,Salaried,2.0,33500.0,643.0,0.0,11000.0,36 months,Mortgage,No,Yes
+APP10879,2025-11-12,38.0,Single,Bachelor,Self-Employed,12.0,56300.0,744.0,3400.0,20000.0,24 months,Rent,No,Yes
+APP10979,2025-12-27,34.0,Single,,Self-Employed,2.0,82500.0,633.0,500.0,38500.0,60 months,Rent,No,Yes
+APP10992,2025-12-30,32.0,Married,High School,Salaried,3.0,33800.0,665.0,5800.0,10500.0,24 months,Rent,No,Yes
+APP10522,2025-07-02,41.0,Single,Master,Salaried,3.0,65600.0,696.0,27700.0,42500.0,12 months,Rent,No,No
+APP10715,2025-09-15,26.0,Single,,,2.0,,466.0,30400.0,12500.0,60 months,RENT,Yes,No
+APP10104,2025-02-09,59.0,Married,,,32.0,55500.0,786.0,5300.0,18500.0,60 months,Own,No,Yes
+APP10167,2025-03-01,21.0,Single,Bachelor,Self-Employed,0.0,57500.0,517.0,24700.0,29500.0,36 months,Rent,Yes,No
+APP10214,2025-03-19,43.0,Married,Master,Salaried,17.0,73500.0,747.0,18000.0,19500.0,24 months,Mortgage,No,Yes
+APP10497,2025-06-22,54.0,Divorced,Master,Salaried,16.0,62700.0,754.0,46300.0,34500.0,12 months,Rent,No,Yes
+APP10554,2025-07-13,40.0,Single,Bachelor,Salaried,13.0,45600.0,558.0,9100.0,19000.0,24 months,Own,Yes,No
+APP10452,2025-06-05,25.0,Single,Bachelor,Salaried,2.0,16200.0,641.0,4200.0,10000.0,24 months,Mortgage,No,No
+APP10896,2025-11-25,41.0,Married,Master,Salaried,10.0,,781.0,4200.0,41500.0,36 months,Own,No,Yes
+APP10738,2025-09-23,39.0, Single,High School,Salaried,15.0,35400.0,697.0,1200.0,9500.0,12 months,Rent,No,Yes
+APP10831,2025-10-27,50.0,Married,High School,Self-Employed,8.0,,732.0,0.0,8000.0,60 months, Own,No,Yes
+APP10161,2025-02-27,21.0,Divorced,Bachelor, Salaried,0.0,24800.0,689.0,9400.0,13000.0,36 months,OWN,No,Yes
+APP10210,2025-03-17,23.0,Single,Bachelor,Self-Employed,1.0,49000.0,645.0,5900.0,62000.0,60 months,Rent,No,Yes
+APP10750,2025-09-27,22.0,Married  ,Master,Salaried,0.0,46000.0,591.0,20700.0,10500.0,36 months,Rent,No,No
+APP10321,2025-04-17,29.0,Married  ,Bachelor,Contract,7.0,23300.0,731.0,7700.0,10000.0,36 months,Mortgage,No,No
+APP10039,2025-01-17,43.0,Married,High School,Salaried,12.0,54300.0,1200.0,13800.0,20000.0,36 months,rent,No,Yes
+APP10786,2025-10-11,33.0,Divorced,Bachelor,Contract,5.0,43500.0,686.0,14600.0,19000.0,12 months,Mortgage,No,Yes
+APP10609,2025-08-04,43.0,Married,,Contract,11.0,25200.0,835.0,700.0,7000.0,36 months, Own,No,Yes
+APP10263,2025-04-01,42.0,Married,Master,SALARIED,15.0,58400.0,667.0,19900.0,18500.0,36 months,Own,No,Yes
+APP10788,2025-10-12,49.0,Married,Master,Salaried,5.0,79300.0,679.0,11400.0,17000.0,60 months,Own,No,Yes
+APP10297,2025-04-10,41.0,Married,Bachelor,Contract,9.0,40000.0,642.0,4800.0,10000.0,60 months,Rent,No,Yes
+APP10912,2025-12-02,28.0,Divorced,Master,Contract,2.0,45900.0,703.0,27100.0,34000.0,36 months,Rent,No,No
+APP10625,2025-08-10,54.0,Married,Bachelor,Salaried,13.0,71800.0,676.0,31200.0,62000.0,12 months,Own,No,No
+APP10766,2025-10-03,22.0,Divorced,Bachelor,Contract,1.0,30100.0,597.0,9400.0,14500.0,12 months,Mortgage,Yes,No
+APP10785,2025-10-11,46.0,Married,Bachelor,Salaried,3.0,51900.0,661.0,0.0,8500.0,48 months,Own,No,Yes
+APP10224,2025-03-21,32.0,Single,Master,Salaried,11.0,79000.0,721.0,32300.0,15500.0,36 months,Rent,No,Yes
+APP10294,2025-04-09,, Married,Bachelor  ,Salaried,9.0,47800.0,,7300.0,50000.0,36 months, rent ,No,No
+APP10124,2025-02-14,44.0,DIVORCED,Master,Salaried,10.0,,651.0,0.0,18000.0,24 months,Own,No,Yes
+APP10030,2025-01-14,39.0,Married,Bachelor,Self-Employed,3.0,38100.0,713.0,10600.0,9500.0,24 months,Mortgage,No,Yes
+APP10872,2025-11-09,25.0,Single,high school,Salaried,2.0,15500.0,592.0,3700.0,9500.0,36 months,Rent,No,No
+APP10061,2025-01-23,26.0,Single,Master,Salaried,5.0,66700.0,658.0,0.0,21500.0,36 months,Rent,No,Yes
+APP10682,2025-08-30,49.0,Married,Bachelor,Contract,,30100.0,662.0,3500.0,8000.0,48 months,Mortgage,No,Yes
+APP10012,2025-01-06,40.0,Married,HIGH SCHOOL,Self-Employed,2.0,31100.0,745.0,5800.0,11000.0,12 months,Rent,No,Yes
+APP10435,2025-05-28,,Married,doctorate,Self-Employed,12.0,125700.0,583.0,20200.0,38000.0,48 months,Rent,Yes,Yes
+APP10685,2025-09-01,29.0,Single,Master,Salaried,2.0,55700.0,731.0,11500.0,30000.0,60 months,Rent,No,Yes
+APP10581,2025-07-24,43.0,Single  , high school ,Salaried,6.0,33000.0,578.0,7900.0,8500.0,36 months,Rent,Yes,No
+APP10615,2025-08-07,28.0,Single,Bachelor,Self-Employed,2.0,23700.0,663.0,900.0,8500.0,48 months,Rent,No,Yes
+APP10389,2025-05-12,48.0,Single,Bachelor,Salaried,22.0,45300.0,795.0,17600.0,13000.0,36 months,Own,No,Yes
+APP10964,2025-12-21,65.0,Married,,Salaried,7.0,54300.0,707.0,27400.0,19500.0,48 months,Own,No,No
+APP10314,2025-04-14,45.0,Married, Bachelor,Salaried,,43400.0,788.0,5600.0,17000.0,36 months,Rent,No,Yes
+APP10229,2025-03-22,52.0,Married,master,Salaried,,44700.0,797.0,17000.0,26000.0,12 months,  MORTGAGE,No,Yes
+APP10899,2025-11-26,38.0,Married,Master,Salaried,4.0,51000.0,,11400.0,12000.0,24 months,Rent,No,Yes
+APP10385,2025-05-11,42.0,Married,Bachelor,Salaried,7.0,,650.0,4000.0,11500.0,36 months,Own,No,Yes
+APP10462,2025-06-08,43.0,Married,,Contract,7.0,24900.0,723.0,13900.0,7000.0,48 months,Mortgage,No,Yes
+APP10932,2025-12-09,27.0,Single,Doctorate,Salaried,3.0,47000.0,700.0,0.0,11000.0,24 months,Mortgage,No,Yes
+APP10752,2025-09-28,46.0,Married, doctorate ,Self-Employed  ,7.0,89200.0,758.0,50600.0,18000.0,36 months,Own,No,Yes
+APP10765,2025-10-02,47.0,Married,Bachelor,Salaried,13.0,54500.0,,15300.0,26000.0,60 months,Mortgage,No,No
+APP10962,2025-12-20,52.0,Married,Master,Contract,,93400.0,691.0,13600.0,20500.0,24 months,Own,No,Yes
+APP10363,2025-05-02,,Single,Bachelor,Self-Employed,4.0,126300.0,571.0,10000.0,26000.0,12 months,Rent,Yes,No
+APP10626,2025-08-10,49.0,Married,Master,Contract,11.0,57800.0,715.0,27700.0,9000.0,60 months,Mortgage,No,No
+APP10726,2025-09-20,57.0,Married,High School,Salaried,19.0,29200.0,,0.0,9500.0,36 months,Own,No,Yes
+APP10196,2025-03-13,31.0,Single,HIGH SCHOOL,salaried,3.0,42200.0,746.0,31700.0,11500.0,24 months,Rent,No,No
+APP10362,2025-05-02,51.0,Divorced,High School,Self-Employed,16.0,51800.0,753.0,29000.0,10000.0,60 months,  OWN,No,Yes
+APP10578,2025-07-23,26.0,Married,Bachelor,Salaried,2.0,74500.0,650.0,24800.0,42000.0,60 months,Rent,Yes,No
+APP10570,2025-07-18,45.0,Married,High School,Salaried,3.0,33100.0,678.0,15500.0,17000.0,60 months,Mortgage,No,No
+APP10149,2025-02-23,36.0,Single,High School,Contract,11.0,25700.0,666.0,5500.0,9000.0,36 months, Rent,No,Yes
+APP10842,2025-10-30,41.0,Married,Master,Salaried,5.0,62400.0,647.0,20500.0,31000.0,12 months,Rent,No,No
+APP10864,2025-11-06,36.0,Single,Master,Salaried,2.0,100800.0,635.0,33700.0,48000.0,48 months,Mortgage,No,No
+APP10936,2025-12-10,42.0,Single,Bachelor,Salaried  ,12.0,76700.0,771.0,16100.0,14000.0,24 months,Mortgage,No,Yes
+APP10070,2025-01-27,37.0,Married,Bachelor,Salaried,11.0,46000.0,769.0,1800.0,11500.0,12 months,Mortgage,No,Yes
+APP10419,2025-05-22,41.0,Single,,Salaried,5.0,43300.0,612.0,22300.0,5500.0,60 months,Own,No,No
+APP10339,2025-04-25,45.0,Married  ,Bachelor,Salaried,15.0,67400.0,701.0,11200.0,17000.0,60 months,Rent,No,Yes
+APP10287,2025-04-07,51.0,Married,Master,Salaried,7.0,50600.0,672.0,23800.0,21500.0,24 months,own,No,Yes
+APP10599,2025-07-31,27.0, Single,Master,Salaried,2.0,68000.0,700.0,0.0,7500.0,36 months,Mortgage,No,Yes
+APP10931,2025-12-09,54.0,Married,Bachelor,Contract,10.0,,,0.0,28500.0,36 months,Own,No,Yes
+APP10136,2025-02-18,35.0,Married,High School, Salaried,8.0,,603.0,17300.0,6000.0,48 months,Rent,No,No
+APP10156,2025-02-26,39.0,Married,Bachelor,Contract,3.0,40900.0,597.0,3600.0,10500.0,24 months, Rent,No,No
+APP10208,2025-03-17,32.0,Divorced,High School,Salaried,2.0,47700.0,671.0,21600.0,8000.0,48 months,Own,No,No
+APP10158,2025-02-26,40.0,Married,High School,Salaried,18.0,45600.0,667.0,11300.0,10000.0,60 months,Mortgage,No,Yes
+APP10004,2025-01-02,30.0,Single,High School, Contract,3.0,32600.0,726.0,14300.0,28500.0,12 months,RENT,No,No
+APP10904,2025-11-29,44.0,Married,,Contract,20.0,46200.0,627.0,10100.0,9000.0,24 months,Mortgage,No,Yes
+APP10153,2025-02-24,51.0,Married,Bachelor,Self-Employed,6.0,41800.0,708.0,10200.0,10500.0,36 months,Own  ,No,Yes
+APP10855,2025-11-03,43.0,Married,High School,Self-Employed,8.0,28900.0,643.0,5000.0,18500.0,24 months,Rent,No,No
+APP10143,2025-02-21,23.0, Single,High School, salaried ,,45600.0,652.0,19500.0,10000.0,36 months,Rent,No,Yes
+APP10278,2025-04-05,41.0,MARRIED,Bachelor,Self-Employed,19.0,66600.0,669.0,22300.0,44500.0,12 months,Rent  ,No,No
+APP10934,2025-12-10,21.0,Married,Bachelor,Salaried,0.0,43900.0,698.0,13000.0,7000.0,12 months,Rent,No,Yes
+APP10113,2025-02-11,26.0,Single,Bachelor,Salaried,1.0,30200.0,597.0,11100.0,16500.0,36 months,Rent,No,No
+APP10429,2025-05-26,33.0,Married,Bachelor,Salaried,,41500.0,604.0,2600.0,12000.0,48 months,Rent,No,Yes
+APP10279,2025-04-06,37.0,Single,high school,Self-Employed,1.0,57300.0,610.0,26200.0,16500.0,60 months,Rent,No,No
+APP10253,2025-03-30,30.0,single,Master,Contract  ,3.0,31300.0,562.0,7300.0,15500.0,24 months,Rent,Yes,No
+APP10481,2025-06-14,31.0,Married,,Salaried  ,4.0,68600.0,757.0,20400.0,5500.0,36 months,Rent,No,Yes
+APP10372,2025-05-06,42.0,Single,High School,Salaried,11.0,26600.0,738.0,6500.0,10500.0,60 months,Own,No,Yes
+APP10536,2025-07-08,36.0,Married,Doctorate,,8.0,83500.0,733.0,14700.0,59000.0,36 months,Own,No,Yes
+APP10326,2025-04-21,38.0,Single,Bachelor,Salaried,4.0,40300.0,732.0,7100.0,14000.0,24 months,Rent,No,Yes
+APP10025,2025-01-11,51.0,Married,High School,Self-Employed,17.0,36800.0,784.0,11300.0,10000.0,48 months,Own,No,Yes
+APP10081,2025-01-29,38.0,married,Master,Salaried,13.0,48200.0,693.0,10200.0,17500.0,36 months,Own,No,Yes
+APP10545,2025-07-10,27.0,Single,bachelor,self-employed,1.0,40300.0,747.0,6700.0,21000.0,36 months,Rent,No,Yes
+APP10067,2025-01-26,27.0,Single,Bachelor,Self-Employed,5.0,153600.0,517.0,6900.0,155500.0,24 months, mortgage ,No,No
+APP10813,2025-10-22,28.0,single,High School,Salaried,6.0,40600.0,655.0,16400.0,31500.0,48 months,Rent,Yes,No
+APP10696,2025-09-05,21.0,single,Bachelor,salaried,0.0,27600.0,745.0,10900.0,17000.0,24 months,Rent,No,No
+APP10938,2025-12-10,24.0,Single,Bachelor,Salaried,2.0,43200.0,706.0,5100.0,31000.0,48 months,RENT,No,No
+APP10794,2025-10-15,27.0,SINGLE,Bachelor,Salaried,2.0,17500.0,637.0,0.0,9000.0,12 months,Mortgage,No,Yes
+APP10562,2025-07-16,38.0,Married,High School,Contract,8.0,56800.0,735.0,12300.0,13500.0,36 months,Own,No,Yes
+APP10999,2025-12-31,41.0,Married,High School,,2.0,50900.0,615.0,24400.0,18000.0,60 months,Rent,No,No
+APP10405,2025-05-17,21.0,Divorced,doctorate,Salaried,1.0,43100.0,766.0,11000.0,39000.0,60 months,Rent,No,No
+APP10856,2025-11-04,30.0,Single,Bachelor,Salaried,4.0,21100.0,661.0,0.0,5000.0,36 months,Rent,No,No
+APP10694,2025-09-05,32.0,Single,High School,Salaried,4.0,,725.0,6000.0,8000.0,24 months,Rent,No,Yes
+APP10802,2025-10-18,21.0,Single,Bachelor,Salaried,1.0,54200.0,770.0,21600.0,8500.0,24 months,Rent,No,Yes
+APP10588,2025-07-26,46.0, Single,Bachelor,Self-Employed,13.0,51000.0,556.0,9200.0,19000.0,60 months,MORTGAGE,Yes,No
+APP10491,2025-06-19,39.0,Single,High School,Salaried,7.0,33000.0,670.0,1300.0,22500.0,24 months,Rent,No,Yes
+APP10396,2025-05-13,41.0,Divorced, Master,Salaried,1.0,63800.0,670.0,16900.0,13000.0,36 months,Own,No,Yes
+APP10185,2025-03-09,46.0,Married,Doctorate,Contract,7.0,66000.0,711.0,15400.0,23500.0,48 months,Rent,No,Yes
+APP10705,2025-09-07,30.0,Divorced, Bachelor,Salaried,4.0,40400.0,657.0,5300.0,13500.0,36 months, Rent,No,Yes
+APP10176,2025-03-06,42.0,Married,Master,Self-Employed,10.0,68500.0,530.0,14000.0,16000.0,24 months,Mortgage,Yes,No
+APP10909,2025-12-01,35.0,Single,Master,CONTRACT,3.0,58700.0,618.0,14300.0,20000.0,60 months,Rent,Yes,Yes
+APP10787,2025-10-11,29.0,Married,Doctorate,Contract,1.0,,680.0,22000.0,8000.0,60 months,Own,No,No
+APP10601,2025-07-31,33.0,Single,Bachelor, self-employed ,8.0,,746.0,6900.0,26500.0,36 months,Rent,No,Yes
+APP10051,2025-01-20,21.0,Married,Bachelor,Self-Employed  ,1.0,44300.0,737.0,14400.0,22000.0,36 months,Mortgage,No,No
+APP10086,2025-01-31,51.0,Single,High School,Salaried,19.0,16800.0,729.0,0.0,7000.0,60 months, mortgage ,No,Yes
+APP10745,2025-09-26,34.0,Single,Master,Salaried,9.0,83400.0,608.0,15000.0,14000.0,12 months,Rent,No,Yes
+APP10202,2025-03-15,39.0,MARRIED,Master,Contract,9.0,50200.0,741.0,5100.0,11000.0,24 months,Own,No,Yes
+APP10981,2025-12-27,50.0,Married,Master,Self-Employed,7.0,61000.0,721.0,29100.0,27500.0,12 months,Rent,No,No
+APP10241,2025-03-26,43.0,Married, High School,Self-Employed,5.0,41100.0,720.0,4800.0,37000.0,12 months, Rent,No,No
+APP10889,2025-11-20,27.0,Single,Bachelor,Salaried,3.0,37300.0,662.0,7400.0,38000.0,36 months,Mortgage,No,No
+APP10704,2025-09-07,38.0,Married,Master,Salaried,9.0,76000.0,795.0,46300.0,17500.0,60 months, Rent,No,Yes
+APP10771,2025-10-05,250.0,Married,High School,Salaried,11.0,53000.0,643.0,9900.0,10000.0,12 months,Own,No,Yes
+APP10250,2025-03-30,21.0,Single,Doctorate,Salaried,0.0,107700.0,595.0,21300.0,45000.0,60 months,Own,No,Yes
+APP10798,2025-10-17,60.0,Married,Bachelor,Salaried,23.0,62400.0,750.0,24300.0,26500.0,48 months,Own,No,Yes
+APP10580,2025-07-24,39.0,Married,High School,Self-Employed,1.0,50700.0,723.0,0.0,41000.0,60 months,Rent,No,Yes
+APP10967,2025-12-21,, married ,Master,Contract,17.0,67700.0,681.0,16000.0,59500.0,60 months,Own,Yes,No
+APP10960,2025-12-19,26.0,Married,Master,Salaried,,56100.0,678.0,5300.0,14000.0,36 months,Rent,No,Yes
+APP10219,2025-03-20,21.0,Single,Bachelor,Contract,0.0,29100.0,661.0,6100.0,4500.0,12 months,Mortgage,No,Yes
+APP10736,2025-09-23,35.0, Married,Bachelor,Self-Employed,5.0,52000.0,640.0,23900.0,13500.0,60 months,Rent,No,No
+APP10108,2025-02-10,31.0,Married,BACHELOR,salaried,2.0,25800.0,689.0,6600.0,8000.0,24 months,Mortgage,No,Yes
+APP10511,2025-06-26,,single,Bachelor,Self-Employed,1.0,47400.0,772.0,3000.0,15000.0,60 months,Rent,No,Yes
+APP10783,2025-10-11,44.0,Married,Master,Self-Employed,18.0,69800.0,643.0,15300.0,43000.0,12 months,Mortgage,Yes,No
+APP10459,2025-06-07,46.0,Married,Master,Self-Employed,11.0,61000.0,709.0,35700.0,27000.0,36 months,Own,No,No
+APP10437,2025-05-29,45.0,Married,Master,Salaried,2.0,56500.0,620.0,15400.0,18500.0,12 months,Rent,No,No
+APP10369,2025-05-05,42.0,Single,Bachelor,Salaried,13.0,39300.0,696.0,5800.0,6000.0,36 months,Rent,No,Yes
+APP10883,2025-11-16,55.0,Married,Master,Salaried,19.0,60900.0,735.0,29900.0,14500.0,36 months,Own,No,Yes
+APP10974,2025-12-25,36.0,Married,High School,Salaried,3.0,34900.0,701.0,4500.0,5500.0,48 months,Rent,No,Yes
+APP10318,2025-04-16,51.0,Divorced,Bachelor,Self-Employed,4.0,47800.0,549.0,3200.0,6500.0,24 months,Own,No,Yes
+APP10816,2025-10-23,46.0,Married,High School,Self-Employed,12.0,44100.0,695.0,16900.0,17500.0,36 months,Own,No,Yes
+APP10778,2025-10-08,33.0,Single,Bachelor,Salaried,7.0,99500.0,698.0,0.0,85000.0,60 months,Mortgage,No,Yes
+APP10521,2025-07-02,43.0,Married, Master,Self-Employed,4.0,84800.0,627.0,0.0,22500.0,60 months,Own,No,Yes
+APP10116,2025-02-13,43.0,Divorced,High School,Salaried,11.0,47800.0,657.0,14100.0,21000.0,60 months,Rent,No,Yes
+APP10178,2025-03-06,40.0,married,High School,Contract,6.0,23500.0,721.0,3900.0,5000.0,48 months,Mortgage,No,Yes
+APP10993,2025-12-30,36.0,Single,Bachelor,Self-Employed,3.0,55400.0,757.0,5000.0,13000.0,36 months,Mortgage,No,Yes
+APP10226,2025-03-22,43.0,Married,Bachelor, salaried ,16.0,62700.0,778.0,0.0,28500.0,12 months,RENT,No,Yes
+APP10256,2025-03-31,30.0,Married,Bachelor, salaried ,4.0,,682.0,10400.0,13500.0,36 months,Mortgage,No,Yes
+APP10162,2025-02-28,56.0,MARRIED, Bachelor,Self-Employed,8.0,68500.0,703.0,3500.0,31000.0,36 months,Mortgage,No,Yes
+APP10596,2025-07-29,29.0,Single,Bachelor,Salaried,8.0,40100.0,714.0,0.0,9000.0,12 months, rent ,No,Yes
+APP10441,2025-05-30,38.0,Single,Bachelor,Salaried,7.0,50200.0,705.0,13300.0,9000.0,60 months,  MORTGAGE,No,Yes
+APP10050,2025-01-20,51.0,MARRIED,High School,Salaried,4.0,42200.0,701.0,17800.0,17000.0,24 months,Rent,No,No
+APP10640,2025-08-16,39.0,Married,Master,salaried,10.0,94900.0,798.0,43100.0,53000.0,12 months,Rent,No,No
+APP10927,2025-12-07,29.0,Married,High School, self-employed ,1.0,32700.0,584.0,7600.0,6000.0,60 months,Rent,No,Yes
+APP10078,2025-01-29,21.0,Married,High School,Contract,1.0,28400.0,701.0,0.0,14500.0,48 months,Mortgage,No,Yes
+APP10653,2025-08-22,24.0,Single,Doctorate,,1.0,83700.0,785.0,10200.0,14000.0,60 months,Mortgage,No,Yes
+APP10340,2025-04-25,39.0,MARRIED,Bachelor,Salaried,6.0,20200.0,698.0,8400.0,4000.0,36 months,Mortgage,Yes,No
+APP10323,2025-04-18,23.0,Single,High School,Salaried,2.0,36200.0,709.0,15000.0,11000.0,12 months,Mortgage,No,No
+APP10780,2025-10-09,21.0,Single,High School,Salaried,0.0,20600.0,618.0,2200.0,2000.0,24 months,Mortgage,Yes,Yes
+APP10478,2025-06-13,45.0,Married,High School,Salaried,1.0,33400.0,602.0,12600.0,10000.0,12 months,Rent,No,No
+APP10944,2025-12-14,52.0,Single,Bachelor,Self-Employed,19.0,70600.0,773.0,0.0,18500.0,36 months,Mortgage,No,Yes
+APP10427,2025-05-25,32.0,Single,Master,Self-Employed,9.0,70500.0,542.0,29700.0,29000.0,36 months,Rent,Yes,No
+APP10201,2025-03-14,36.0,Single,Doctorate,Self-Employed,12.0,75300.0,684.0,0.0,28000.0,36 months,Rent,No,Yes
+APP10514,2025-06-28,54.0,Married,High School,Salaried,7.0,147400.0,697.0,27500.0,29000.0,48 months,Own,No,Yes
+APP10917,2025-12-03,52.0,Married,Bachelor,Contract,14.0,62100.0,624.0,20400.0,16000.0,12 months,Rent,No,No
+APP10963,2025-12-20,33.0,Single,High School,self-employed,7.0,20600.0,680.0,4100.0,20500.0,36 months,Mortgage,No,No
+APP10774,2025-10-07,27.0,Single,,Salaried,4.0,93000.0,705.0,45100.0,93500.0,12 months,Rent,Yes,No
+APP10509,2025-06-26,33.0,Married,High School,contract,3.0,41700.0,765.0,2300.0,5500.0,60 months,Rent,No,Yes
+APP10282,2025-04-06,56.0,Married,HIGH SCHOOL,Contract,17.0,70700.0,,45200.0,28500.0,36 months,own,Yes,No
+APP10445,2025-06-01,38.0,Single,High School,Contract,8.0,14100.0,625.0,5300.0,3500.0,60 months,Rent,No,No
+APP10064,2025-01-25,33.0,Married  ,Bachelor,salaried,2.0,25600.0,,4400.0,8000.0,12 months,Rent,No,Yes
+APP10348,2025-04-29,37.0,Single,Bachelor,Salaried,1.0,80700.0,725.0,17500.0,24000.0,48 months,Rent,No,Yes
+APP10033,2025-01-16,33.0,Divorced,Bachelor,,7.0,41200.0,668.0,18600.0,20000.0,60 months,Rent,No,Yes
+APP10092,2025-02-02,35.0,Married,Bachelor,Salaried,3.0,48000.0,626.0,15700.0,23500.0,60 months,Mortgage,Yes,No
+APP10645,2025-08-18,24.0,Single,Master,Salaried,1.0,19300.0,738.0,9300.0,10000.0,48 months,Rent,No,Yes
+APP10846,2025-10-31,32.0,Married,High School,Salaried,4.0,35400.0,796.0,1600.0,12000.0,48 months,Rent,No,Yes
+APP10686,2025-09-01,28.0,Single,high school,Salaried,5.0,18400.0,769.0,2900.0,3500.0,36 months,Mortgage,No,Yes
+APP10095,2025-02-05,28.0,Single,High School,,5.0,41400.0,,7600.0,59500.0,36 months,Rent,No,No
+APP10422,2025-05-24,21.0,Single,High School,Self-Employed,0.0,24300.0,496.0,0.0,7000.0,24 months,Rent,Yes,No
+APP10568,2025-07-18,31.0,Single,Bachelor,Salaried,4.0,26400.0,572.0,0.0,12500.0,48 months,Own,No,Yes
+APP10157,2025-02-26,36.0,Divorced,Bachelor,Salaried  ,1.0,61300.0,607.0,7000.0,21500.0,12 months,Rent,No,Yes
+APP10997,2025-12-31,42.0,Married,Doctorate,Self-Employed,9.0,97500.0,587.0,24800.0,32500.0,12 months,mortgage,No,Yes
+APP10035,2025-01-17,22.0,Single,High School,Self-Employed,1.0,47100.0,768.0,9900.0,15000.0,36 months,Rent,No,Yes
+APP10245,2025-03-28,40.0,Married,Master,Self-Employed,5.0,52400.0,742.0,0.0,28000.0,36 months,own,No,Yes
+APP10464,2025-06-09,36.0,Married,Master,Salaried,,278500.0,609.0,34500.0,112000.0,24 months,Own,No,No
+APP10003,2025-01-02,43.0,Married, Doctorate,Salaried,3.0,116900.0,637.0,0.0,56500.0,12 months,Mortgage,No,Yes
+APP10526,2025-07-04,27.0,Single,Bachelor,Self-Employed,2.0,56600.0,691.0,25800.0,38000.0,24 months,Rent,No,No
+APP10725,2025-09-20,43.0,Married,Bachelor,Salaried,17.0,70000.0,661.0,19600.0,23000.0,24 months, mortgage ,Yes,No
+APP10968,2025-12-22,21.0,Married,Bachelor,Salaried,0.0,57100.0,750.0,6600.0,11000.0,36 months,Rent,No,Yes
+APP10860,2025-11-05,,Single,High School,Self-Employed,8.0,55600.0,802.0,0.0,18500.0,36 months,Rent,No,Yes
+APP10622,2025-08-09,41.0,Married,Bachelor,Salaried,4.0,44000.0,679.0,6800.0,24000.0,24 months,Mortgage,No,Yes
+APP10935,2025-12-10,44.0,Single,Master,Salaried,7.0,39900.0,647.0,10600.0,21500.0,36 months,Own,Yes,No
+APP10637,2025-08-16,41.0,Married,High School,Salaried,8.0,58300.0,648.0,17400.0,20500.0,24 months,Rent,No,Yes
+APP10717,2025-09-17,57.0,Single,Master,Salaried,15.0,47900.0,,8600.0,19500.0,48 months,mortgage,No,Yes
+APP10044,2025-01-18,45.0,Married,Master,Salaried,16.0,92100.0,714.0,40800.0,22500.0,24 months, Own,No,Yes
+APP10848,2025-11-02,42.0,Divorced,High School,Salaried,10.0,35500.0,790.0,13200.0,8500.0,12 months,Rent,No,Yes
+APP10139,2025-02-20,51.0,Married,High School,Contract,17.0,24300.0,731.0,0.0,5000.0,24 months,Own,No,Yes
+APP10215,2025-03-19,46.0,Married,High School,,6.0,31100.0,632.0,11600.0,14000.0,60 months,Rent,No,No
+APP10271,2025-04-02,50.0,Single, master ,Salaried,13.0,65100.0,709.0,12200.0,29500.0,24 months,Own,No,Yes
+APP10803,2025-10-18,21.0,Single,Bachelor,Self-Employed,0.0,46800.0,536.0,0.0,14000.0,48 months,Rent,Yes,No
+APP10220,2025-03-21,,Single,Doctorate,Salaried,12.0,42200.0,685.0,10300.0,9500.0,48 months,Own,No,Yes
+APP10344,2025-04-26,40.0,Divorced,Master,Salaried,11.0,47900.0,,25700.0,36000.0,36 months,Mortgage,No,No
+APP10381,2025-05-10,36.0,Married,Bachelor,contract,6.0,36700.0,511.0,0.0,12500.0,24 months,Rent,Yes,No
+APP10163,2025-03-01,44.0,Married,Bachelor,Salaried,15.0,40600.0,643.0,18100.0,17500.0,24 months,Rent,No,Yes
+APP10937,2025-12-10,58.0,Married,High School,Salaried,8.0,,666.0,0.0,28500.0,12 months,Own,No,Yes
+APP10911,2025-12-01,45.0,Married,Bachelor,Salaried,12.0,41500.0,615.0,12200.0,12500.0,24 months,Mortgage,No,No
+APP10953,2025-12-17,180.0,Married,Bachelor,Salaried,18.0,38200.0,707.0,13400.0,8000.0,12 months,Rent,No,Yes
+APP10046,2025-01-19,30.0,Single,Doctorate,Contract,4.0,116500.0,661.0,22500.0,59500.0,24 months,Mortgage,No,No
+APP10130,2025-02-17,30.0,Single,Bachelor,Salaried,2.0,46000.0,638.0,20800.0,19000.0,36 months,Rent,No,No
+APP10110,2025-02-11,21.0,Married  ,Master,Salaried,1.0,41800.0,627.0,5500.0,15500.0,48 months,Rent,No,Yes
+APP10048,2025-01-20,38.0,Single,,Contract,8.0,22800.0,731.0,0.0,7000.0,12 months,Rent,No,Yes
+APP10043,2025-01-18,27.0,Married,High School,Self-Employed,4.0,32900.0,623.0,13500.0,4000.0,36 months,Mortgage,No,Yes
+APP10345,2025-04-26,25.0,Single,High School,Self-Employed,2.0,31400.0,522.0,4200.0,5000.0,60 months,Rent,No,No
+APP10956,2025-12-17,36.0, Divorced,Master,SELF-EMPLOYED,9.0,42100.0,563.0,9700.0,43000.0,48 months,rent,Yes,No
+APP10620,2025-08-09,47.0,Married,Bachelor,Salaried,8.0,52200.0,,1600.0,10500.0,36 months,Rent,No,Yes
+APP10590,2025-07-26,24.0,Single,Bachelor,Contract,2.0,35000.0,675.0,3000.0,7000.0,12 months,Rent,No,No
+APP10582,2025-07-25,41.0, single ,Doctorate,Salaried  ,3.0,88000.0,689.0,32800.0,48500.0,60 months,Own,No,Yes
+APP10415,2025-05-21,47.0,DIVORCED, high school ,Self-Employed,15.0,21200.0,696.0,5400.0,11000.0,60 months,Own,No,Yes
+APP10891,2025-11-20,52.0,Married,High School  ,,16.0,69600.0,,15900.0,13500.0,60 months,Rent,No,Yes
+APP10197,2025-03-13,50.0,Married, high school ,Salaried,7.0,14900.0,817.0,1100.0,7500.0,24 months,Mortgage,No,Yes
+APP10382,2025-05-10,27.0,Married,High School,Salaried,4.0,58300.0,771.0,9000.0,20500.0,24 months,Mortgage,No,Yes
+APP10341,2025-04-25,,Married,Master,Contract,0.0,36100.0,626.0,9800.0,20500.0,48 months,Mortgage,Yes,No
+APP10370,2025-05-06,21.0,Single,High School,Self-Employed,0.0,36200.0,714.0,0.0,37500.0,24 months,Rent,No,No
+APP10758,2025-09-30,47.0,Married,Master,Salaried,16.0,106000.0,692.0,33100.0,26500.0,24 months,Mortgage,No,Yes
+APP10943,2025-12-13,44.0,Married,Bachelor,Self-Employed,17.0,61500.0,,40500.0,10000.0,48 months,Rent,No,No
+APP10097,2025-02-07,28.0,Single,Master  ,Self-Employed,1.0,62000.0,582.0,14300.0,24000.0,36 months,Mortgage,No,Yes
+APP10717,2025-09-17,57.0,Single,Master,Salaried,15.0,47900.0,,8600.0,19500.0,48 months,mortgage,No,Yes
+APP10733,2025-09-22,38.0,Single,Bachelor,Contract,14.0,,602.0,15300.0,20500.0,24 months,Own,Yes,No
+APP10371,2025-05-06,41.0,Married,Master,Self-Employed,4.0,32500.0,722.0,18100.0,12500.0,36 months,Mortgage,No,No
+APP10876,2025-11-11,39.0,Married,MASTER,Self-Employed,14.0,54800.0,735.0,28400.0,9500.0,12 months,Own,No,Yes
+APP10135,2025-02-18,38.0,Single,High School,Salaried,11.0,20300.0,754.0,11200.0,5000.0,60 months,Mortgage,No,Yes
+APP10356,2025-05-01,25.0,Single,Doctorate,Salaried,2.0,121200.0,625.0,22500.0,127000.0,36 months,Mortgage,No,No
+APP10804,2025-10-18,37.0, Single,Master,Salaried,6.0,71800.0,704.0,15300.0,13500.0,60 months,Own,No,Yes
+APP10260,2025-04-01,48.0,Married,Bachelor,Self-Employed,5.0,61400.0,656.0,18900.0,8000.0,48 months,Own,No,No
+APP10182,2025-03-08,24.0,Single,High School,Salaried,1.0,46900.0,654.0,5300.0,17500.0,48 months, Rent,No,Yes
+APP10063,2025-01-24,40.0, Married,High School,Salaried,14.0,155400.0,681.0,6600.0,125000.0,36 months,Mortgage,No,Yes
+APP10479,2025-06-13,38.0,Single,Bachelor,Salaried,9.0,48400.0,626.0,7600.0,13000.0,60 months,Own,No,Yes
+APP10037,2025-01-17,32.0,Single,Master,Contract,4.0,51300.0,574.0,12700.0,18000.0,36 months,Mortgage,Yes,No
+APP10730,2025-09-21,26.0,Single,MASTER,Salaried,3.0,41200.0,654.0,900.0,23500.0,12 months,Rent,Yes,No
+APP10552,2025-07-12,41.0,Divorced,Bachelor,Salaried,9.0,49100.0,,6200.0,12500.0,36 months,Own,No,Yes
+APP10100,2025-02-08,39.0,Divorced,master,Self-Employed,4.0,65100.0,675.0,24100.0,20000.0,12 months,Rent,Yes,No
+APP10384,2025-05-11,27.0,Single,Bachelor,Self-Employed,5.0,45100.0,707.0,10300.0,20500.0,60 months,Rent,No,Yes
+APP10515,2025-06-28,50.0,Married,Bachelor,Salaried,7.0,110400.0,686.0,10000.0,32500.0,36 months,Own,No,Yes
+APP10763,2025-10-01,52.0,Married,Bachelor,Salaried,6.0,33400.0,679.0,8200.0,9000.0,36 months,Own,No,Yes
+APP10749,2025-09-27,41.0,Married  ,High School,SALARIED,13.0,32400.0,707.0,10300.0,12500.0,36 months,Rent,No,Yes
+APP10641,2025-08-16,52.0,Married,High School,Self-Employed,4.0,29700.0,700.0,3300.0,6500.0,60 months,Own,No,Yes
+APP10444,2025-06-01,44.0,Divorced,Bachelor,Self-Employed,,46500.0,674.0,7700.0,8000.0,48 months,Rent,No,Yes
+APP10123,2025-02-14,32.0,Divorced,Bachelor,Salaried,4.0,33800.0,767.0,11500.0,3000.0,60 months,Rent,No,Yes
+APP10623,2025-08-09,54.0,Married,High School,Self-Employed,9.0,83100.0,691.0,33600.0,52000.0,60 months,Own,No,No
+APP10404,2025-05-16,44.0,Single,Doctorate,Contract  ,9.0,45200.0,615.0,11000.0,14500.0,36 months,Rent  ,Yes,No
+APP10091,2025-02-02,28.0,Single,Bachelor,Salaried,0.0,50600.0,619.0,19500.0,47500.0,48 months,Own,No,No
+APP10566,2025-07-17,35.0,Single, Master,Salaried,5.0,100900.0,647.0,0.0,37000.0,60 months,Rent,No,Yes
+APP10970,2025-12-22,35.0,Single,Bachelor,Contract,9.0,50100.0,726.0,3400.0,19500.0,36 months,Mortgage,No,Yes
+APP10847,2025-11-02,30.0,Single,Master,Contract,,,670.0,18300.0,10000.0,24 months,Mortgage,No,No
+APP10700,2025-09-07,33.0,Single,Bachelor,Salaried,3.0,54700.0,748.0,6000.0,23000.0,60 months,Rent,No,Yes
+APP10216,2025-03-19,21.0,Married,Doctorate,Salaried,0.0,78600.0,582.0,21800.0,17000.0,24 months,Rent,No,No
+APP10366,2025-05-03,41.0,Married,High School,Salaried,12.0,35000.0,759.0,2200.0,7500.0,36 months,Mortgage,No,Yes
+APP10411,2025-05-19,23.0,Single, Master,Self-Employed,1.0,58000.0,744.0,37400.0,27500.0,12 months,Mortgage,No,No
+APP10238,2025-03-25,33.0,Single,Bachelor,Contract,10.0,31700.0,728.0,0.0,10500.0,48 months,Mortgage,No,Yes
+APP10364,2025-05-03,45.0,Married,Bachelor,Salaried,12.0,49900.0,679.0,7800.0,19000.0,48 months,Mortgage,No,Yes
+APP10757,2025-09-30,32.0,Married,BACHELOR,Contract,8.0,45500.0,645.0,6400.0,8500.0,24 months,Rent,No,Yes
+APP10046,2025-01-19,30.0,Single,Doctorate,Contract,4.0,116500.0,661.0,22500.0,59500.0,24 months,  MORTGAGE,No,No
+APP10058,2025-01-22,25.0, Single,High School,Self-Employed,2.0,82200.0,683.0,18800.0,45500.0,60 months,Rent,No,Yes
+APP10237,2025-03-25,30.0,Married,Master,Self-Employed,,82800.0,559.0,29800.0,64000.0,48 months,Rent,No,No
+APP10436,2025-05-29,22.0,Single,High School,Salaried,0.0,40100.0,634.0,2300.0,18000.0,12 months,Mortgage,No,Yes
+APP10708,2025-09-09,38.0,Married,High School,Salaried,8.0,35400.0,652.0,12600.0,9000.0,36 months,Mortgage,No,No
+APP10573,2025-07-20,41.0,Single,High School,Salaried,7.0,39200.0,795.0,12000.0,14500.0,48 months,own,No,Yes
+APP10706,2025-09-08,33.0,Married,Bachelor,Contract,9.0,57200.0,772.0,16700.0,7000.0,60 months, Mortgage,No,Yes
+APP10203,2025-03-16,27.0, single ,,Salaried,3.0,29500.0,593.0,13400.0,3500.0,12 months,Rent,Yes,No
+APP10836,2025-10-27,56.0,DIVORCED, high school ,salaried,14.0,35700.0,850.0,14400.0,8500.0,24 months,Mortgage,No,No
+APP10375,2025-05-07,21.0,Divorced,Doctorate,Self-Employed,0.0,48300.0,539.0,3700.0,11000.0,12 months,Rent,Yes,No
+APP10628,2025-08-11,53.0,Married,,Salaried,9.0,101400.0,710.0,39700.0,15500.0,60 months,Rent,No,Yes
+APP10059,2025-01-22,39.0,Married,High School,Contract,11.0,37700.0,819.0,10400.0,31000.0,12 months,Rent,No,No
+APP10830,2025-10-27,33.0,Married,High School,Salaried,10.0,76800.0,650.0,34800.0,46000.0,60 months,Rent,No,No
+APP10832,2025-10-27,38.0,Married, Bachelor,Salaried,5.0,95500.0,777.0,23300.0,31000.0,12 months,  RENT,No,Yes
+APP10140,2025-02-20,46.0,Married,Bachelor,Salaried,3.0,57800.0,624.0,9400.0,14000.0,36 months,Own,No,Yes
+APP10632,2025-08-14,55.0,Married,Master,Salaried,7.0,55600.0,790.0,10500.0,23000.0,36 months,Own,No,Yes
+APP10077,2025-01-29,27.0, Single,bachelor,Salaried,3.0,88100.0,709.0,30500.0,45000.0,12 months,Mortgage,No,No
+APP10800,2025-10-18,21.0,Married,High School,Salaried,0.0,17300.0,575.0,0.0,2500.0,24 months,Own,Yes,No
+APP10621,2025-08-09,38.0,Single,,Salaried,3.0,45100.0,603.0,22300.0,18000.0,36 months,Mortgage,No,No
+APP10672,2025-08-27,39.0, Married,High School,Salaried,10.0,,685.0,1800.0,9500.0,12 months,Mortgage,No,Yes
+APP10539,2025-07-09,48.0,Married,Bachelor,Self-Employed,17.0,277100.0,826.0,64800.0,88500.0,48 months,Mortgage,No,Yes
+APP10711,2025-09-10,42.0,Married,Bachelor,Contract,9.0,,728.0,5000.0,8000.0,60 months,Mortgage,No,Yes
+APP10180,2025-03-08,50.0,Divorced,,Contract,15.0,62000.0,709.0,32200.0,9000.0,24 months,Mortgage,No,Yes
+APP10015,2025-01-07,42.0,Married,Bachelor,Salaried,7.0,40600.0,,24500.0,17000.0,12 months,Mortgage,No,Yes
+APP10131,2025-02-17,45.0,Married,BACHELOR,Salaried,18.0,59900.0,663.0,29400.0,11000.0,36 months,Rent,No,Yes
+APP10450,2025-06-04,33.0,Married,Bachelor, contract ,2.0,43900.0,656.0,6200.0,11000.0,12 months,Mortgage,No,Yes
+APP10353,2025-04-30,21.0,Single,Bachelor,Salaried,0.0,37200.0,750.0,8400.0,10500.0,36 months,Rent,No,Yes
+APP10663,2025-08-25,21.0,Single,Bachelor,Salaried,0.0,,635.0,3700.0,52000.0,48 months,Mortgage,No,No
+APP10354,2025-04-30,37.0,Married,Doctorate,Salaried,6.0,56600.0,627.0,9600.0,8500.0,36 months,Rent,No,Yes
+APP10655,2025-08-23,37.0,Single,Bachelor,Salaried,8.0,60600.0,657.0,23500.0,26000.0,24 months,Rent,No,Yes
+APP10399,2025-05-14,25.0,Single,,Self-Employed,3.0,35900.0,773.0,8400.0,18000.0,36 months,Rent,No,No
+APP10007,2025-01-04,43.0,Married,Bachelor,Self-Employed,12.0,43000.0,695.0,23500.0,12000.0,36 months,Rent,No,No
+APP10023,2025-01-11,40.0,divorced,Bachelor,Salaried,1.0,39500.0,686.0,9800.0,21000.0,48 months,Mortgage,No,Yes
+APP10698,2025-09-06,49.0,Married,High School,Salaried,7.0,35300.0,518.0,13900.0,17000.0,48 months,Rent,No,No
+APP10958,2025-12-17,34.0,Married,Doctorate,Self-Employed,4.0,97300.0,756.0,39100.0,27500.0,12 months,Rent,No,Yes
+APP10334,2025-04-24,45.0,Married,Master,Salaried,6.0,36500.0,687.0,6300.0,20500.0,24 months,Rent,No,Yes
+APP10673,2025-08-27,39.0,Single,Bachelor,Self-Employed,9.0,51200.0,,7900.0,15500.0,60 months,Rent,No,Yes
+APP10994,2025-12-30,48.0,Married,Bachelor,Salaried,2.0,34200.0,,5000.0,16000.0,24 months,Mortgage,No,Yes
+APP10212,2025-03-17,52.0,Married,High School,Self-Employed,18.0,40300.0,670.0,9100.0,22000.0,24 months,Own,No,Yes
+APP10720,2025-09-19,31.0,Married,BACHELOR,Salaried,7.0,43300.0,652.0,3500.0,24500.0,60 months, Rent,No,Yes
+APP10006,2025-01-04,36.0,Single,Bachelor,Self-Employed,4.0,15300.0,632.0,0.0,7500.0,24 months, rent ,No,Yes
+APP10406,2025-05-17,25.0,Single,Master,Salaried,3.0,58200.0,677.0,21000.0,12500.0,12 months,Rent,No,Yes
+APP10209,2025-03-17,41.0,Married  ,High School,Salaried,4.0,11200.0,685.0,1900.0,3500.0,24 months,Own,No,Yes
+APP10884,2025-11-17,41.0,Married,Doctorate,Salaried,4.0,72500.0,682.0,8500.0,33500.0,36 months,Mortgage,No,Yes
+APP10791,2025-10-13,52.0,Divorced,High School,Salaried  ,14.0,26700.0,,0.0,5000.0,36 months,Own  ,No,Yes
+APP10408,2025-05-18,40.0,Married,Doctorate,Salaried,12.0,58000.0,727.0,0.0,14500.0,36 months, rent ,No,Yes
+APP10721,2025-09-19,55.0,Divorced,High School,Salaried,7.0,65200.0,579.0,22300.0,16000.0,48 months,Rent,Yes,No
+APP10929,2025-12-08,22.0,Married,Bachelor,Self-Employed,1.0,66900.0,620.0,8300.0,11000.0,36 months,Rent,No,Yes
+APP10117,2025-02-13,30.0, Married,High School,Self-Employed,3.0,,624.0,0.0,24500.0,36 months,Own,Yes,No
+APP10638,2025-08-16,41.0,Married,Master,Salaried,10.0,88300.0,741.0,57500.0,30500.0,36 months,Own  ,No,No
+APP10517,2025-06-30,43.0,Married,Doctorate,Salaried,8.0,101100.0,744.0,26600.0,41500.0,24 months,Mortgage,No,Yes
+APP10142,2025-02-20,21.0,Single,High School,Self-Employed,0.0,30100.0,584.0,0.0,10000.0,24 months, mortgage ,Yes,Yes
+APP10598,2025-07-30,37.0,Married,High School,Self-Employed,9.0,43900.0,604.0,14700.0,9000.0,48 months,Mortgage,No,No
+APP10183,2025-03-08,24.0,Single,Master,Salaried  ,2.0,48800.0,681.0,19100.0,16500.0,36 months,Mortgage,No,Yes
+APP10327,2025-04-21,32.0,Single,Master,Self-Employed,2.0,,676.0,1000.0,10000.0,48 months,Rent,No,Yes
+APP10457,2025-06-06,29.0,Single,Bachelor  ,SALARIED,7.0,57500.0,580.0,8800.0,15000.0,60 months,Rent,No,Yes
+APP10480,2025-06-13,37.0,Single,Bachelor,Self-Employed,12.0,66100.0,626.0,15500.0,31500.0,12 months,Rent,Yes,No
+APP10561,2025-07-16,49.0,Married,Doctorate,Self-Employed,12.0,68600.0,667.0,28400.0,17500.0,36 months,Own,No,Yes
+APP10351,2025-04-29,50.0,Single,Master,SALARIED,2.0,81400.0,653.0,20400.0,42500.0,24 months,Own,No,No
+APP10270,2025-04-02,36.0,Married,Bachelor,Self-Employed,,94700.0,621.0,32000.0,16500.0,12 months,Rent,No,Yes
+APP10714,2025-09-13,46.0,Married,Master,Self-Employed,6.0,91100.0,,21300.0,26000.0,48 months,Own,No,Yes
+APP10138,2025-02-19,30.0,Divorced,High School,Salaried,6.0,36200.0,642.0,21300.0,27000.0,36 months,Rent,No,No
+APP10020,2025-01-09,22.0,Single,,Self-Employed,1.0,33200.0,805.0,13200.0,17500.0,12 months,Rent,No,Yes
+APP10432,2025-05-27,32.0,Single,Bachelor,Salaried,6.0,48000.0,766.0,20300.0,19500.0,60 months,Own,No,Yes
+APP10604,2025-08-01,45.0,Married,Master,Salaried,18.0,114300.0,767.0,19000.0,38000.0,12 months,Mortgage,No,Yes
+APP10155,2025-02-25,31.0,Married,Doctorate,Salaried,8.0,52800.0,571.0,0.0,14500.0,36 months,Mortgage,Yes,Yes
+APP10379,2025-05-08,40.0,Single,master,Contract,4.0,31000.0,667.0,1600.0,7000.0,48 months,Own,No,Yes
+APP10173,2025-03-04,43.0, Married,Bachelor,Salaried,12.0,,600.0,21100.0,63000.0,60 months,Rent,No,No
+APP10489,2025-06-18,42.0, Single,Master,Salaried,16.0,144900.0,741.0,98700.0,119500.0,36 months,Own,No,No
+APP10193,2025-03-13,24.0,Married,Master,Contract,2.0,41200.0,723.0,12400.0,13500.0,48 months,Rent,No,No
+APP10690,2025-09-02,32.0,single,High School  ,,5.0,42200.0,850.0,13600.0,34000.0,48 months,Own,No,No
+APP10397,2025-05-13,29.0,Married,Bachelor,Salaried  ,5.0,88700.0,728.0,30600.0,11500.0,60 months,Rent,No,Yes
+APP10547,2025-07-11,39.0,Married, Doctorate,Self-Employed,12.0,129000.0,732.0,25000.0,51500.0,60 months,Rent,No,Yes
+APP10494,2025-06-20,44.0,Divorced,Bachelor,,15.0,52200.0,677.0,17900.0,22500.0,12 months,Own  ,No,Yes
+APP10875,2025-11-10,53.0,Divorced,Doctorate,Self-Employed,2.0,35900.0,652.0,6000.0,19500.0,48 months,OWN,Yes,No
+APP10755,2025-09-29,32.0,Married,, Salaried,9.0,56000.0,664.0,12800.0,17000.0,36 months,Rent,No,Yes
+APP10403,2025-05-15,42.0,Divorced,Master,Salaried,10.0,51100.0,603.0,16100.0,9500.0,36 months,Rent,No,Yes
+APP10407,2025-05-17,41.0,Married,Bachelor,Salaried,8.0,30700.0,793.0,6900.0,9500.0,60 months,Rent,No,Yes
+APP10648,2025-08-19,45.0,Married,High School,Self-Employed,12.0,36600.0,659.0,0.0,15500.0,36 months,Rent,No,Yes
+APP10080,2025-01-29,28.0,single,High School,Salaried,3.0,36800.0,567.0,22100.0,23500.0,60 months,Rent,Yes,No
+APP10408,2025-05-18,40.0,Married,Doctorate,Salaried,12.0,58000.0,727.0,0.0,14500.0,36 months, rent ,No,Yes
+APP10330,2025-04-22,26.0,Single,High School,Salaried,2.0,33700.0,732.0,0.0,5500.0,36 months,Rent,No,Yes
+APP10753,2025-09-29,36.0,Married,Bachelor,Salaried,4.0,44600.0,588.0,21200.0,2500.0,24 months, rent ,No,No
+APP10312,2025-04-14,30.0,Single,Bachelor,Contract,2.0,34400.0,639.0,-15000.0,9000.0,24 months,Mortgage,Yes,No
+APP10505,2025-06-24,52.0,Married,High School,Salaried,15.0,37900.0,656.0,14300.0,14500.0,60 months,Rent,No,Yes
+APP10901,2025-11-27,38.0,Married,HIGH SCHOOL,Self-Employed,11.0,52600.0,596.0,19400.0,22500.0,12 months,own,Yes,No
+APP10296,2025-04-10,24.0,Single,Bachelor,SALARIED,1.0,41900.0,634.0,8300.0,25000.0,36 months,Rent,No,No
+APP10644,2025-08-18,44.0,Married,Master,Contract,7.0,52500.0,,5200.0,13000.0,24 months,Rent,No,Yes
+APP10995,2025-12-30,35.0,Married, bachelor ,Salaried,7.0,42500.0,730.0,8800.0,12500.0,60 months,Rent,No,Yes
+APP10761,2025-10-01,31.0,Single,High School,Self-Employed,4.0,23900.0,633.0,0.0,9500.0,12 months,Rent,No,Yes
+APP10627,2025-08-11,39.0,Married,Bachelor,Salaried,6.0,26000.0,,7700.0,7500.0,48 months,Mortgage,No,No
+APP10198,2025-03-14,25.0,Single,,Salaried,2.0,27000.0,699.0,3700.0,6000.0,36 months,Rent,No,Yes
+APP10916,2025-12-03,42.0,Married,High School,Self-Employed,7.0,37000.0,746.0,300.0,11000.0,60 months,Own,No,Yes
+APP10575,2025-07-20,26.0,Married,Master,Salaried,1.0,46300.0,705.0,0.0,24500.0,48 months,Rent,No,Yes
+APP10150,2025-02-23,21.0,Married,Bachelor, Salaried,0.0,44400.0,680.0,3000.0,26500.0,12 months,Rent,No,No
+APP10551,2025-07-12,34.0,Married,Master,Self-Employed,10.0,145700.0,705.0,64900.0,65500.0,48 months,mortgage,No,Yes
+APP10546,2025-07-11,31.0,Single,Bachelor,Salaried,2.0,29900.0,654.0,2500.0,18000.0,60 months,Rent,Yes,No
+APP10227,2025-03-22,21.0,Single,High School, Self-Employed,0.0,52800.0,660.0,7400.0,14000.0,48 months,Mortgage,No,Yes
+APP10862,2025-11-05,22.0,Single,Master,Self-Employed,1.0,81300.0,716.0,29300.0,16500.0,12 months,Rent,No,Yes
+APP10735,2025-09-22,23.0,single,Master,Contract,1.0,61700.0,638.0,0.0,15000.0,12 months,Rent,No,Yes
+APP10060,2025-01-23,53.0,Married,Bachelor,Contract,23.0,38500.0,606.0,4300.0,24000.0,60 months,Own,Yes,Yes
+APP10001,2025-01-01,27.0, single ,High School,Salaried,3.0,35800.0,542.0,3800.0,7000.0,48 months,Mortgage,Yes,No
+APP10083,2025-01-30,36.0,Single,Master,Salaried,2.0,29500.0,580.0,6700.0,11500.0,36 months,Mortgage,No,No
+APP10472,2025-06-11,26.0,Divorced,High School,Salaried,1.0,21500.0,557.0,15700.0,8500.0,36 months,Rent,Yes,No
+APP10420,2025-05-23,34.0,Single,Bachelor,Salaried,8.0,80100.0,621.0,13400.0,23500.0,24 months,Own,No,Yes
+APP10024,2025-01-11,33.0,Married,High School,Self-Employed,3.0,,,7600.0,2500.0,12 months,Mortgage,No,No
+APP10008,2025-01-05,41.0,Married,,Self-Employed,10.0,86800.0,,10900.0,13500.0,24 months,Mortgage,No,Yes
+APP10618,2025-08-08,52.0,Married,High School,Salaried,6.0,28600.0,,9500.0,13000.0,60 months,Mortgage,Yes,No
+APP10041,2025-01-18,25.0,Divorced,Master,Self-Employed,0.0,34200.0,675.0,0.0,6500.0,60 months,Mortgage,No,Yes
+APP10639,2025-08-16,29.0,Divorced,Bachelor,Contract,5.0,32500.0,,0.0,12500.0,12 months,Rent,No,Yes
+APP10329,2025-04-21,32.0,Single,High School,Salaried,2.0,34700.0,654.0,7100.0,18500.0,48 months,Rent,No,Yes
+APP10676,2025-08-28,43.0,Married,Bachelor,Salaried,12.0,88900.0,616.0,0.0,29000.0,24 months,Rent,No,Yes
+APP10674,2025-08-27,48.0,Single,Bachelor,Salaried,3.0,32300.0,655.0,11300.0,13500.0,36 months,Own,No,Yes
+APP10249,2025-03-30,50.0,Married,High School,Salaried,20.0,,643.0,0.0,25000.0,12 months,Own,Yes,No
+APP10946,2025-12-15,23.0,Single,Bachelor,Contract,2.0,45300.0,618.0,18400.0,19000.0,12 months,Rent,No,No
+APP10866,2025-11-07,41.0,Married,High School,Contract,11.0,33600.0,706.0,3100.0,15000.0,60 months,Mortgage,No,Yes
+APP10920,2025-12-04,39.0,MARRIED,High School,Salaried,2.0,11100.0,728.0,7300.0,4500.0,24 months,RENT,No,No
+APP10790,2025-10-12,51.0,Married,Bachelor,Salaried,9.0,32100.0,692.0,21100.0,11000.0,24 months,Own,No,No
+APP10485,2025-06-16,34.0,Divorced,Master,Salaried,9.0,27900.0,626.0,0.0,11000.0,36 months,Mortgage,No,Yes
+APP10806,2025-10-19,47.0,Single,Master,Salaried,19.0,85100.0,648.0,18300.0,25500.0,60 months,Mortgage,Yes,Yes
+APP10456,2025-06-06,50.0,MARRIED,High School,Salaried,13.0,36500.0,613.0,0.0,14000.0,36 months,OWN,Yes,No
+APP10310,2025-04-13,51.0,Married,Master,Self-Employed,7.0,67100.0,682.0,33300.0,22000.0,24 months,Mortgage,No,No
+APP10535,2025-07-08,31.0,Single,Bachelor,Salaried,8.0,36400.0,568.0,12400.0,33000.0,36 months,Rent  ,No,No
+APP10487,2025-06-16,52.0,Married,Master,Salaried,11.0,30600.0,652.0,16400.0,4500.0,24 months,Own,No,Yes
+APP10433,2025-05-27,37.0,Single,Master,Self-Employed,12.0,93200.0,726.0,39100.0,58500.0,60 months,Rent,No,No
+APP10499,2025-06-22,47.0,Married,Master,Salaried,15.0,67200.0,784.0,34700.0,22500.0,24 months,Own,No,Yes
+APP10657,2025-08-23,38.0,Married,High School,Contract,4.0,54500.0,602.0,15900.0,31000.0,60 months,Rent,No,No
+APP10661,2025-08-24,37.0,Married,High School,Salaried,12.0,31500.0,652.0,12200.0,16000.0,60 months,Mortgage,No,Yes
+APP10010,2025-01-06,33.0,Married,Master,Self-Employed,9.0,68400.0,,21900.0,18500.0,36 months,Rent,No,No
+APP10476,2025-06-12,33.0,Single, bachelor ,Salaried,1.0,31100.0,597.0,5700.0,4500.0,24 months,Rent,Yes,No
+APP10923,2025-12-07,25.0,Single,Bachelor,Self-Employed,3.0,28800.0,714.0,3000.0,12500.0,60 months,Mortgage  ,No,Yes
+APP10374,2025-05-07,62.0,Married,Master,Salaried,5.0,48000.0,706.0,23700.0,18500.0,36 months,Own,No,No
+APP10701,2025-09-07,25.0,Married,Master,Salaried,2.0,42000.0,638.0,16400.0,42000.0,24 months,Mortgage,No,No
+APP10647,2025-08-18,21.0,Single,Master,Salaried,1.0,53000.0,609.0,14900.0,8000.0,36 months,Rent,No,No
+APP10983,2025-12-27,40.0,Married,Bachelor,Salaried,10.0,72800.0,710.0,16900.0,32000.0,24 months, rent ,No,Yes
+APP10368,2025-05-04,42.0,Divorced,Bachelor,Salaried,9.0,33300.0,688.0,0.0,12500.0,36 months,Own,No,Yes
+APP10873,2025-11-09,46.0,Married,Bachelor,Salaried,6.0,276800.0,690.0,0.0,81500.0,36 months,Rent,No,Yes
+APP10969,2025-12-22,36.0,Single,High School,Self-Employed,4.0,43100.0,661.0,0.0,10000.0,36 months,Rent,No,Yes
+APP10115,2025-02-13,37.0,Married,Master,Contract,9.0,66400.0,760.0,9800.0,15500.0,48 months,Rent,No,Yes
+APP10781,2025-10-10,55.0,Married,Bachelor,Self-Employed,18.0,63300.0,767.0,20000.0,21000.0,60 months,Rent,Yes,Yes
+APP10810,2025-10-21,59.0,Married,High School,Self-Employed,10.0,,794.0,0.0,8000.0,12 months,Mortgage,No,Yes
+APP10510,2025-06-26,45.0,Married,Bachelor,contract,7.0,24500.0,617.0,3600.0,3500.0,36 months,Rent,No,Yes
+APP10926,2025-12-07,30.0,Single  ,HIGH SCHOOL,Salaried,5.0,21300.0,750.0,11900.0,6000.0,36 months, Rent,No,Yes
+APP10313,2025-04-14,39.0,Married,High School,Salaried,6.0,29900.0,728.0,13300.0,10000.0,48 months,Rent,No,No
+APP10316,2025-04-15,42.0,Single,Bachelor,Self-Employed,20.0,59100.0,677.0,14000.0,17000.0,60 months,Rent,Yes,Yes
+APP10412,2025-05-19,49.0,Married,Bachelor,Salaried,16.0,68000.0,650.0,3700.0,12500.0,36 months,Rent,No,No
+APP10147,2025-02-22,39.0,Married  ,Doctorate,Contract,11.0,82200.0,600.0,20500.0,11000.0,48 months,Mortgage,No,Yes
+APP10677,2025-08-29,39.0,Married,High School,Self-Employed,7.0,81500.0,700.0,30900.0,76000.0,12 months,Mortgage,No,No
+APP10585,2025-07-25,37.0,Married,Bachelor,Salaried,1.0,24900.0,,15200.0,6000.0,12 months,Rent,No,No
+APP10358,2025-05-02,53.0,Married, doctorate ,Contract  ,8.0,85900.0,539.0,52700.0,20000.0,36 months,Rent,Yes,No
+APP10343,2025-04-26,29.0,Single,Master,Salaried,6.0,46600.0,764.0,25000.0,9500.0,12 months,Mortgage,No,Yes
+APP10499,2025-06-22,47.0,Married,Master,Salaried,15.0,67200.0,784.0,34700.0,22500.0,24 months,Own,No,Yes
+APP10074,2025-01-28,31.0,Married,Bachelor,Salaried,2.0,41100.0,607.0,16100.0,10500.0,60 months,Mortgage,No,No
+APP10372,2025-05-06,42.0,Single,High School,Salaried,11.0,26600.0,738.0,6500.0,10500.0,60 months,Own,No,Yes
+APP10017,2025-01-08,38.0,Single,High School,Salaried,5.0,43800.0,728.0,16500.0,12000.0,36 months,Own,No,Yes
+APP10712,2025-09-11,37.0,Married,Bachelor,Salaried,1.0,41700.0,,0.0,9500.0,12 months,Rent,No,Yes
+APP10984,2025-12-27,36.0,Married,Doctorate,Salaried,4.0,79600.0,779.0,0.0,14000.0,48 months,Rent,No,Yes
+APP10233,2025-03-23,41.0,married,High School,Self-Employed,15.0,30500.0,687.0,8100.0,6500.0,36 months,Rent,No,Yes
+APP10449,2025-06-04,40.0,Married,, salaried ,7.0,76500.0,803.0,0.0,28500.0,12 months,Rent,No,Yes
+APP10120,2025-02-14,40.0,Married,Bachelor,Salaried,3.0,64700.0,725.0,25700.0,39000.0,24 months,Rent,No,No
+APP10066,2025-01-25,36.0,Single,High School,Salaried,5.0,48700.0,595.0,3000.0,14000.0,48 months,Rent,No,Yes
+APP10614,2025-08-07,33.0,Single,Bachelor  ,Contract,4.0,,713.0,3200.0,31000.0,24 months,Own,No,No
+APP10096,2025-02-06,33.0,Single,High School,Salaried,2.0,,616.0,3500.0,9000.0,24 months,Mortgage,No,No
+APP10877,2025-11-11,47.0,Married,Bachelor,Self-Employed,19.0,79500.0,800.0,3900.0,24000.0,48 months,Rent,No,Yes
+APP10082,2025-01-30,33.0,Divorced,High School,Salaried,7.0,30500.0,681.0,3500.0,14500.0,24 months,Rent,No,Yes
+APP10565,2025-07-17,44.0,Married,,Salaried,6.0,61400.0,667.0,37500.0,29000.0,12 months,Rent,No,No
+APP10988,2025-12-29,38.0,Married,High School,Salaried,2.0,30200.0,693.0,10600.0,13500.0,36 months,Mortgage,No,No
+APP10930,2025-12-08,38.0,Divorced,Bachelor,Self-Employed,5.0,40900.0,709.0,13600.0,16000.0,12 months,MORTGAGE,No,No
+APP10168,2025-03-02,34.0,Single,High School,Salaried,11.0,,764.0,8100.0,4500.0,24 months,Rent,No,Yes
+APP10465,2025-06-09,33.0,Single,Bachelor,Salaried,6.0,48800.0,795.0,4900.0,11000.0,24 months,Own,No,Yes
+APP10881,2025-11-14,62.0,Married,Bachelor,Salaried,25.0,83100.0,690.0,14000.0,24000.0,12 months,Own,Yes,Yes
+APP10501,2025-06-23,,Married,Bachelor, salaried ,12.0,41600.0,597.0,16500.0,26000.0,24 months,Mortgage,No,No
+APP10629,2025-08-12,35.0,Single,High School,Salaried,9.0,30000.0,720.0,0.0,10500.0,36 months,Rent,No,Yes
+APP10482,2025-06-15,34.0,Married,High School,CONTRACT,5.0,22700.0,703.0,9200.0,11000.0,48 months,Mortgage,No,Yes
+APP10309,2025-04-12,39.0,Married,Bachelor,Contract,,74500.0,,15600.0,8000.0,48 months,Rent,No,Yes
+APP10065,2025-01-25,29.0,Single,Master,Salaried,1.0,90800.0,713.0,60100.0,74000.0,36 months,Rent,No,No
+APP10950,2025-12-16,58.0,Married,Bachelor,Salaried,15.0,60200.0,681.0,22000.0,41500.0,24 months,Own,No,No
+APP10325,2025-04-19,33.0,Single,High School,Salaried,8.0,30700.0,544.0,13800.0,6500.0,24 months,Own,Yes,Yes
+APP10446,2025-06-02,34.0,Married, master ,Salaried,5.0,36500.0,667.0,0.0,23000.0,60 months,Own  ,No,Yes
+APP10592,2025-07-27,38.0,Single,Master,Self-Employed,7.0,57600.0,646.0,6300.0,11000.0,48 months,Rent,No,Yes
+APP10769,2025-10-05,31.0,SINGLE,Bachelor,Self-Employed,1.0,,699.0,14200.0,12500.0,36 months,Rent,No,Yes
+APP10815,2025-10-23,33.0,Married,Bachelor,salaried,5.0,30800.0,838.0,10700.0,12000.0,36 months,Mortgage,No,Yes
+APP10151,2025-02-24,38.0,Married,High School,Contract,7.0,,635.0,16600.0,12000.0,24 months,Mortgage,No,No
+APP10669,2025-08-26,45.0,Married, Bachelor,Self-Employed,16.0,56400.0,601.0,0.0,12500.0,60 months,Mortgage,Yes,Yes
+APP10834,2025-10-27,35.0,Single,Master,Self-Employed,4.0,35400.0,713.0,4100.0,13500.0,36 months,MORTGAGE,No,Yes
+APP10269,2025-04-02,32.0,Single,High School,Self-Employed,2.0,32600.0,680.0,7600.0,17000.0,60 months,Rent,No,No
+APP10819,2025-10-24,40.0,Divorced,Bachelor,Salaried,4.0,28700.0,642.0,5600.0,18500.0,24 months,Rent,Yes,No
+APP10336,2025-04-24,46.0,Divorced,bachelor, Contract,4.0,42800.0,615.0,23900.0,26500.0,36 months,Own,No,No
+APP10205,2025-03-16,37.0,Married,Bachelor,Salaried,8.0,43700.0,748.0,15900.0,11500.0,12 months,Rent,No,Yes
+APP10832,2025-10-27,38.0,Married, Bachelor,Salaried,5.0,95500.0,777.0,23300.0,31000.0,12 months,Rent,No,Yes
+APP10258,2025-04-01,48.0,Married,,Salaried,16.0,,584.0,0.0,11000.0,24 months,Rent,Yes,No
+APP10305,2025-04-12,42.0,Single,High School,Salaried,5.0,32000.0,,10500.0,12000.0,24 months,Rent,No,No
+APP10089,2025-02-01,22.0,Single,Bachelor,Salaried,1.0,26300.0,587.0,8200.0,11500.0,60 months,Mortgage,No,No
+APP10508,2025-06-25,32.0,Married,, salaried ,3.0,89200.0,695.0,54800.0,25500.0,12 months,Rent,No,No
+APP10281,2025-04-06,33.0,Single,High School,Self-Employed,1.0,20100.0,712.0,2600.0,5500.0,24 months,Mortgage,No,Yes
+APP10192,2025-03-13,33.0,Married,bachelor,Contract,4.0,32500.0,751.0,0.0,24000.0,24 months,Mortgage,No,Yes
+APP10451,2025-06-04,47.0,Married,Master,salaried,18.0,59500.0,692.0,12900.0,15000.0,60 months,Mortgage,No,Yes
+APP10976,2025-12-25,39.0,Single,Master,Salaried,8.0,29200.0,665.0,2100.0,18500.0,36 months,own,No,Yes
+APP10044,2025-01-18,45.0,Married,Master,Salaried,16.0,92100.0,714.0,40800.0,22500.0,24 months, Own,No,Yes
+APP10975,2025-12-25,53.0,Married,High School,Self-Employed,4.0,28400.0,700.0,8000.0,9500.0,12 months,Own,No,No
+APP10458,2025-06-06,44.0,Married,bachelor,Self-Employed,3.0,21900.0,695.0,4500.0,4500.0,24 months,Rent,No,Yes
+APP10606,2025-08-03,34.0,Divorced,Bachelor,Salaried,5.0,72700.0,608.0,43400.0,52000.0,60 months,Mortgage,No,No
+APP10072,2025-01-28,26.0,Single,High School,Salaried,4.0,35700.0,546.0,0.0,8000.0,48 months,Rent,Yes,No
+APP10303,2025-04-11,44.0,Married,High School, salaried ,6.0,,611.0,23900.0,39500.0,12 months,Rent,Yes,No
+APP10252,2025-03-30,32.0,Single,High School,Contract,7.0,24300.0,764.0,15200.0,4000.0,24 months,Own  ,No,No
+APP10498,2025-06-22,42.0,Single, master ,Salaried,17.0,44400.0,711.0,11000.0,17000.0,36 months,Own,No,Yes
+APP10447,2025-06-03,35.0,Single,Bachelor,Salaried,1.0,53000.0,757.0,1900.0,14000.0,12 months,  RENT,No,Yes
+APP10908,2025-11-30,40.0,Married,High School,Salaried,18.0,59100.0,599.0,26500.0,12500.0,48 months,Rent,Yes,No
+APP10656,2025-08-23,21.0,Single,High School,salaried,1.0,22500.0,607.0,0.0,10000.0,60 months,Mortgage,No,No
+APP10308,2025-04-12,29.0,Married,Bachelor,Self-Employed,2.0,34900.0,652.0,7900.0,9500.0,48 months,Rent,Yes,Yes
+APP10893,2025-11-23,59.0,Divorced,High School,Salaried,13.0,37400.0,730.0,3000.0,25500.0,36 months,Mortgage,No,Yes
+APP10567,2025-07-18,48.0,Married,High School,Salaried,10.0,30300.0,678.0,4100.0,6000.0,24 months,Rent,No,Yes
+APP10402,2025-05-15,52.0,Married,Bachelor,Salaried,12.0,52700.0,700.0,5200.0,32500.0,48 months,Own,No,Yes
+APP10504,2025-06-24,41.0,Married,Master,Salaried,9.0,66100.0,633.0,20300.0,27500.0,48 months,Own,No,Yes
+APP10583,2025-07-25,27.0,Single,Doctorate,self-employed,2.0,56900.0,799.0,5700.0,76500.0,48 months,Rent,No,No
+APP10878,2025-11-12,47.0, divorced ,Master,Self-Employed,9.0,34600.0,605.0,14000.0,39000.0,48 months,Rent,No,No
+APP10928,2025-12-08,52.0,married,master,Salaried,23.0,65400.0,707.0,6300.0,5500.0,36 months,Own,No,Yes
+APP10740,2025-09-24,24.0,Single,Master,Salaried,3.0,83400.0,,26300.0,25000.0,12 months,Mortgage,No,Yes
+APP10978,2025-12-26,33.0,Married,Bachelor,Salaried,1.0,40600.0,595.0,0.0,22500.0,24 months,Rent,No,Yes
+APP10484,2025-06-16,44.0,Married,High School,Contract,13.0,27100.0,677.0,9400.0,9000.0,12 months,Rent,No,No
+APP10586,2025-07-25,32.0,Married,Master,Salaried,6.0,74400.0,781.0,10300.0,19500.0,36 months,Mortgage,No,Yes
+APP10172,2025-03-03,37.0,Married,High School,Salaried,10.0,22700.0,612.0,300.0,14500.0,36 months,Mortgage,No,No
+APP10636,2025-08-16,44.0,Single,Bachelor,Salaried,10.0,46100.0,581.0,5600.0,25000.0,48 months,Mortgage,Yes,No
+APP10617,2025-08-07,38.0,Married,Bachelor,Salaried,11.0,69400.0,549.0,0.0,12000.0,24 months,Rent,Yes,No
+APP10731,2025-09-21,34.0,Single,High School, Salaried,10.0,53300.0,766.0,29900.0,29500.0,24 months,MORTGAGE,No,Yes
+APP10386,2025-05-11,40.0,Married,Master,Salaried,4.0,48500.0,728.0,8100.0,24500.0,48 months,Own,No,Yes
+APP10352,2025-04-30,56.0,Married,,SALARIED,8.0,,,10200.0,18000.0,24 months,Mortgage,No,Yes
+APP10211,2025-03-17,47.0,Married,Bachelor,Self-Employed,7.0,45600.0,706.0,7700.0,20000.0,48 months,Rent,No,Yes
+APP10659,2025-08-24,55.0,married,Bachelor, Contract,32.0,85900.0,745.0,35100.0,42500.0,36 months,Mortgage,No,Yes
+APP10723,2025-09-19,29.0,Single,High School, Self-Employed,6.0,36800.0,678.0,17000.0,9500.0,24 months,Rent,No,No
+APP10380,2025-05-09,46.0,Single  ,Master,Contract,7.0,71700.0,641.0,24100.0,39000.0,48 months,Mortgage,No,No
+APP10052,2025-01-20,26.0,Single  ,High School,Salaried,4.0,21900.0,584.0,7600.0,25500.0,60 months,Rent,No,No
+APP10571,2025-07-18,27.0,Single,Bachelor,Salaried,1.0,34200.0,653.0,10400.0,16500.0,60 months,Own,No,No
+APP10175,2025-03-05,45.0,Married,Bachelor,Salaried,7.0,23400.0,603.0,7100.0,6500.0,12 months,Mortgage,Yes,No
+APP10797,2025-10-17,35.0,Married,Master,Salaried,4.0,114200.0,725.0,48300.0,33000.0,48 months,Rent,No,No
+APP10439,2025-05-29,31.0,Single,,Salaried,9.0,112300.0,720.0,36100.0,37500.0,36 months,Rent,No,Yes
+APP10036,2025-01-17,28.0,Single,Master,Salaried,1.0,29100.0,698.0,0.0,7500.0,36 months,Rent,No,Yes
+APP10985,2025-12-28,36.0,Married,High School,Salaried,8.0,26300.0,769.0,7900.0,13000.0,12 months,Mortgage,No,Yes
+APP10259,2025-04-01,29.0,Married,Doctorate,Self-Employed,1.0,73900.0,767.0,13600.0,23000.0,60 months,Rent,No,Yes
+APP10502,2025-06-23,52.0,Married,Master,self-employed,19.0,82100.0,700.0,18400.0,123000.0,24 months,Mortgage,No,No
+APP10292,2025-04-08,35.0,Married,Master,Salaried,4.0,49100.0,737.0,19000.0,12000.0,60 months,rent,No,Yes
+APP10221,2025-03-21,36.0,Divorced,Bachelor,Salaried,2.0,30900.0,709.0,6200.0,6500.0,36 months, Mortgage,No,Yes
+APP10722,2025-09-19,43.0,Single,Bachelor,Salaried,7.0,106600.0,590.0,19300.0,33000.0,24 months,Mortgage,Yes,No
+APP10191,2025-03-12,40.0,Divorced,Master,salaried,7.0,65800.0,676.0,12600.0,8500.0,24 months,Mortgage,No,Yes
+APP10941,2025-12-13,28.0,Single,MASTER,Salaried,2.0,62100.0,732.0,8300.0,26500.0,12 months,Rent,No,Yes
+APP10812,2025-10-22,49.0,Married,High School,Salaried,2.0,31100.0,662.0,6600.0,9000.0,60 months,Rent,No,Yes
+APP10821,2025-10-25,48.0,Married,Master,Salaried,7.0,39000.0,682.0,0.0,7000.0,60 months,Mortgage,No,Yes
+APP10572,2025-07-19,44.0,Married,Bachelor,Self-Employed,19.0,34600.0,,14400.0,46000.0,12 months,RENT,No,No
+APP10907,2025-11-30,41.0,Married,Master,Salaried,3.0,40800.0,718.0,6000.0,24000.0,48 months,Mortgage,No,Yes
+APP10703,2025-09-07,29.0,Divorced,High School,Salaried,6.0,25600.0,734.0,10600.0,6000.0,24 months,Own,No,Yes
+APP10524,2025-07-03,39.0,Single,Bachelor, Self-Employed,7.0,39200.0,652.0,9500.0,19500.0,36 months,Rent,No,No
+APP10828,2025-10-26,40.0,Single,Bachelor,Salaried,5.0,51800.0,685.0,16500.0,14500.0,36 months,Rent  ,No,Yes
+APP10128,2025-02-16,41.0,Married,Master,Self-Employed,13.0,44700.0,561.0,12800.0,8500.0,12 months,Mortgage,No,Yes
+APP10213,2025-03-17,34.0,SINGLE,Bachelor,Self-Employed,11.0,67900.0,590.0,3100.0,19000.0,12 months,Mortgage,Yes,Yes
+APP10019,2025-01-08,44.0,Married,Bachelor,Salaried,7.0,44200.0,745.0,11900.0,4500.0,36 months,Mortgage,No,Yes
+APP10782,2025-10-10,31.0,Divorced,MASTER,Salaried,5.0,62500.0,690.0,14700.0,25500.0,60 months,Rent,No,Yes
+APP10443,2025-05-30,33.0, single ,Bachelor,Self-Employed  ,5.0,50200.0,675.0,4400.0,18500.0,36 months,Rent,No,Yes
+APP10146,2025-02-22,47.0,Married, high school ,Self-Employed,20.0,39300.0,720.0,0.0,14500.0,36 months,Own,No,Yes
+APP10291,2025-04-08,30.0,Single,Master, salaried ,3.0,32100.0,608.0,0.0,10500.0,24 months,Own,No,Yes
+APP10171,2025-03-03,33.0,Married  ,Master,Self-Employed,7.0,76700.0,662.0,3500.0,40000.0,12 months,Mortgage,No,Yes
+APP10795,2025-10-15,25.0,Single, bachelor ,Salaried,1.0,53500.0,,10400.0,14500.0,48 months,Rent,No,Yes
+APP10169,2025-03-02,27.0,Single,Master,Self-Employed,2.0,41900.0,721.0,14600.0,15000.0,12 months, Rent,No,No
+APP10438,2025-05-29,39.0,Married,Bachelor,Salaried,7.0,27000.0,720.0,7400.0,11000.0,36 months,Rent,No,Yes
+APP10603,2025-08-01,27.0, Single,High School,Self-Employed,2.0,41900.0,606.0,16400.0,7500.0,36 months,Mortgage,Yes,No
+APP10055,2025-01-21,46.0,married,High School,Self-Employed,20.0,55000.0,793.0,6700.0,15500.0,48 months, Rent,No,Yes
+APP10642,2025-08-16,41.0,Married,High School,,10.0,,656.0,0.0,13000.0,12 months,Mortgage,No,Yes
+APP10518,2025-07-02,27.0,Single,High School,Salaried,1.0,19400.0,748.0,2300.0,7000.0,12 months,rent,No,Yes
+APP10534,2025-07-07,40.0,Married,High School,Salaried,,33900.0,727.0,2300.0,3500.0,24 months,Own,No,Yes
+APP10392,2025-05-13,31.0,Single,Bachelor,Salaried,8.0,45800.0,650.0,6700.0,9500.0,48 months,Rent,No,Yes
+APP10826,2025-10-26,45.0,Married,Bachelor,Self-Employed,14.0,50800.0,747.0,9100.0,12000.0,24 months, own ,No,Yes
+APP10843,2025-10-30,49.0, Married,Master,Salaried,18.0,77800.0,666.0,8400.0,29000.0,60 months,Own,No,Yes
+APP10230,2025-03-23,48.0,Single,Bachelor,Salaried,6.0,44600.0,722.0,21700.0,21000.0,36 months,Rent,No,No
+APP10187,2025-03-10,37.0,Single,High School,Salaried,5.0,17200.0,598.0,6800.0,5500.0,24 months,Mortgage,No,No
+APP10789,2025-10-12,26.0,Single,Master,Salaried,4.0,64900.0,652.0,12300.0,14500.0,36 months,Rent,No,Yes
+APP10683,2025-08-31,36.0,Single,High School,Salaried,9.0,27300.0,655.0,900.0,9500.0,24 months,Mortgage,No,Yes
+APP10737,2025-09-23,41.0,Married,Master,Salaried,10.0,68300.0,805.0,17700.0,15500.0,60 months, Mortgage,No,Yes
+APP10365,2025-05-03,36.0,Married, Bachelor,Self-Employed,2.0,28600.0,780.0,7400.0,26000.0,60 months,Rent,No,Yes
+APP10228,2025-03-22,39.0,Married,Bachelor,Self-Employed,7.0,44900.0,706.0,6200.0,14000.0,36 months,  OWN,No,Yes
+APP10635,2025-08-15,34.0,Married,Bachelor,Salaried,4.0,31600.0,676.0,4800.0,19000.0,12 months,Mortgage,No,No
+APP10869,2025-11-08,50.0,Single,Doctorate,Self-Employed,17.0,72900.0,651.0,2100.0,57500.0,48 months,Mortgage,No,Yes
+APP10531,2025-07-06,46.0,Married,Bachelor,Salaried,3.0,32800.0,652.0,11300.0,7500.0,12 months,Rent,No,No
+APP10240,2025-03-26,30.0,Single,Master,Salaried,4.0,53400.0,721.0,3900.0,29500.0,36 months,Rent,No,Yes
+APP10919,2025-12-04,23.0,Single,Bachelor,Self-Employed,,28900.0,549.0,8400.0,12500.0,60 months,Rent,Yes,No
+APP10844,2025-10-31,30.0,Single,High School,Self-Employed,6.0,23200.0,717.0,5800.0,6500.0,60 months,Mortgage,No,Yes
+APP10053,2025-01-20,37.0,Single,Bachelor,Self-Employed,11.0,56000.0,734.0,6400.0,31500.0,36 months,rent,No,Yes
+APP10413,2025-05-19,50.0,Married,Bachelor,Salaried,17.0,82200.0,644.0,8700.0,17000.0,60 months,MORTGAGE,No,Yes
+APP10186,2025-03-10,52.0,married,Bachelor,Salaried,21.0,40500.0,713.0,2800.0,40500.0,36 months,Own,No,Yes
+APP10277,2025-04-05,27.0,Single,High School,Salaried,3.0,29400.0,621.0,12700.0,4000.0,36 months,Mortgage,No,No
+APP10768,2025-10-04,32.0,Single,Doctorate,Self-Employed,7.0,,668.0,0.0,33000.0,36 months,Mortgage,No,Yes
+APP10442,2025-05-30,34.0,Single,Bachelor,Contract,3.0,57500.0,705.0,18500.0,49000.0,24 months,Rent,No,No
+APP10820,2025-10-24,37.0,Single,Bachelor,Salaried,6.0,42000.0,670.0,14400.0,14500.0,60 months,Rent,No,Yes
+APP10056,2025-01-21,-5.0,Married,Bachelor,Salaried,18.0,33400.0,793.0,9300.0,13000.0,24 months,Mortgage,No,Yes
+APP10307,2025-04-12,32.0,Married,Bachelor,Self-Employed  ,4.0,57800.0,685.0,7400.0,10500.0,36 months,Rent,No,Yes
+APP10743,2025-09-25,36.0,Single,High School,Salaried,3.0,52500.0,635.0,17100.0,29000.0,36 months,Rent,No,No
+APP10377,2025-05-08,61.0,Single,Master, salaried ,18.0,42500.0,688.0,25700.0,23000.0,12 months,Own,No,No
+APP10028,2025-01-12,28.0,Single,Bachelor,Self-Employed,7.0,39900.0,755.0,21500.0,12500.0,48 months,Mortgage,No,Yes
+APP10232,2025-03-23,33.0,Divorced,doctorate,Salaried,1.0,40800.0,629.0,9200.0,13500.0,48 months,Mortgage,No,Yes
+APP10441,2025-05-30,38.0,Single,Bachelor,Salaried,7.0,50200.0,705.0,13300.0,9000.0,60 months,Mortgage,No,Yes
+APP10005,2025-01-03,48.0,Married,Bachelor,Self-Employed,3.0,44800.0,634.0,10300.0,13500.0,60 months,Mortgage,No,Yes
+APP10602,2025-08-01,35.0,Married,BACHELOR,Salaried,7.0,43200.0,619.0,5900.0,42500.0,48 months,Rent,No,No
+APP10801,2025-10-18,41.0,Married,Bachelor,Self-Employed,15.0,64500.0,745.0,27800.0,30000.0,24 months,Mortgage,No,Yes
+APP10684,2025-09-01,21.0,Married,BACHELOR,Self-Employed,0.0,38800.0,673.0,0.0,15000.0,60 months,Rent,Yes,Yes
+APP10011,2025-01-06,40.0, Married,Master,Salaried,8.0,55600.0,704.0,0.0,33500.0,36 months,Mortgage,No,Yes
+APP10611,2025-08-04,57.0,Single,Doctorate,Self-Employed,8.0,42600.0,663.0,11100.0,13500.0,36 months,Rent,No,Yes
+APP10690,2025-09-02,32.0,single,High School  ,,5.0,42200.0,850.0,13600.0,34000.0,48 months,Own,No,No
+APP10013,2025-01-07,34.0,Married,Master,Self-Employed,6.0,56700.0,798.0,9800.0,15500.0,12 months,Mortgage,No,Yes
+APP10865,2025-11-06,21.0,Married,Master,Salaried,0.0,25900.0,712.0,4400.0,12500.0,12 months,Rent,No,Yes
+APP10989,2025-12-29,50.0,Married,High School,Contract,11.0,27000.0,756.0,6400.0,6500.0,60 months,Mortgage,No,Yes
+APP10127,2025-02-15,42.0,Married,Doctorate,Salaried,7.0,122800.0,721.0,68500.0,27500.0,60 months,Mortgage,No,Yes
+APP10850,2025-11-02,21.0,Single, Master,Contract,0.0,29800.0,624.0,0.0,18000.0,24 months,Rent,No,No
+APP10751,2025-09-28,49.0,Divorced,MASTER,Salaried,6.0,41600.0,597.0,9500.0,21000.0,24 months,Mortgage,No,No
+APP10280,2025-04-06,53.0,Married,Bachelor,,11.0,79800.0,,0.0,31500.0,36 months,Rent,No,Yes
+APP10367,2025-05-04,24.0, Married,Master,Contract,3.0,62700.0,679.0,21800.0,20500.0,48 months,Mortgage,No,No
+APP10577,2025-07-23,49.0,Married,Bachelor,Salaried,13.0,38400.0,617.0,13900.0,44500.0,12 months,Rent  ,No,No
+APP10114,2025-02-11,38.0,Married,Bachelor  ,Salaried,3.0,51500.0,623.0,6600.0,40500.0,36 months,Rent,No,No
+APP10681,2025-08-30,48.0,Married,master,Salaried,8.0,73100.0,667.0,27600.0,20500.0,36 months,Rent,No,Yes
+APP10861,2025-11-05,39.0,Single,Master,Salaried,9.0,,747.0,10500.0,15000.0,48 months,RENT,No,Yes
+APP10898,2025-11-26,28.0,Single,Bachelor,Salaried,1.0,41900.0,632.0,4700.0,33000.0,36 months,Mortgage,Yes,No
+APP10687,2025-09-01,32.0,Single,Doctorate,Contract,10.0,67100.0,736.0,0.0,26000.0,24 months,Rent,No,Yes
+APP10744,2025-09-25,65.0,Single,Master,Salaried,28.0,70800.0,701.0,8600.0,24000.0,48 months,Own,No,Yes
+APP10718,2025-09-17,26.0,Married,High School  ,Salaried,2.0,28200.0,596.0,9800.0,6000.0,24 months,Rent,No,No
+APP10951,2025-12-16,23.0,Single,Bachelor,Self-Employed,1.0,39000.0,632.0,12800.0,14000.0,24 months,Mortgage,No,No
+APP10426,2025-05-24,33.0,Single,Master,Salaried,3.0,69100.0,661.0,16800.0,24500.0,12 months,Rent,No,No
+APP10069,2025-01-26,31.0,Single,Bachelor,Salaried,3.0,20500.0,558.0,11600.0,3500.0,12 months,Mortgage,Yes,No
+APP10608,2025-08-03,40.0,Single,HIGH SCHOOL,Salaried,7.0,43000.0,647.0,24900.0,22000.0,36 months,Rent  ,No,No
+APP10133,2025-02-18,52.0,Married,Bachelor, salaried ,6.0,66900.0,678.0,0.0,16000.0,12 months,Mortgage,No,Yes
+APP10955,2025-12-17,32.0,Married,,Salaried,8.0,28400.0,661.0,10100.0,15000.0,60 months,Rent,Yes,No
+APP10068,2025-01-26,35.0,Married,Doctorate,Salaried,3.0,68400.0,750.0,30100.0,59500.0,24 months,Rent,No,No
+APP10619,2025-08-08,38.0,Married,Bachelor,Salaried,12.0,41100.0,691.0,7400.0,10500.0,48 months,Rent,No,Yes
+APP10447,2025-06-03,35.0,Single,Bachelor,Salaried,1.0,53000.0,757.0,1900.0,14000.0,12 months,Rent,No,Yes
+APP10125,2025-02-15,31.0,Married,Master,Salaried,3.0,65600.0,622.0,0.0,14000.0,36 months,Rent,No,Yes
+APP10273,2025-04-03,34.0,Single,Bachelor,Salaried,,46600.0,701.0,4500.0,14000.0,24 months,Rent,No,Yes
+APP10870,2025-11-08,39.0,Married,Master,Salaried  ,1.0,37700.0,788.0,14900.0,20500.0,60 months,Mortgage,No,Yes
+APP10337,2025-04-24,32.0,Single, Bachelor,Salaried,3.0,60000.0,578.0,1100.0,16500.0,12 months,Rent,No,No
+APP10474,2025-06-11,55.0,Married,Bachelor,salaried,14.0,28800.0,717.0,4400.0,6500.0,12 months,Mortgage,No,Yes
+APP10021,2025-01-11,29.0,Single,Bachelor,Salaried,3.0,37900.0,636.0,0.0,10000.0,24 months,Rent,No,Yes
+APP10817,2025-10-23,38.0,Married,High School,Salaried,,38000.0,702.0,7500.0,16000.0,24 months,Own,No,Yes
+APP10807,2025-10-19,30.0,Single,Bachelor,Contract,8.0,48500.0,712.0,0.0,14500.0,36 months,Rent,No,Yes
+APP10266,2025-04-01,21.0,Single,Master,Salaried,0.0,109600.0,743.0,13000.0,46000.0,24 months,Rent,No,Yes
+APP10996,2025-12-31,32.0,Single,Bachelor,Salaried,11.0,74900.0,752.0,32600.0,25500.0,24 months,Own,No,Yes
+APP10094,2025-02-04,40.0,Single,Bachelor,SALARIED,3.0,59800.0,845.0,5200.0,20500.0,48 months,Rent,No,Yes
+APP10959,2025-12-19,48.0,married,Bachelor  ,,9.0,24800.0,609.0,5100.0,8000.0,12 months,Own,No,No
+APP10188,2025-03-10,21.0,Single,Bachelor,Salaried,0.0,16400.0,538.0,3700.0,5500.0,36 months,Mortgage,No,No
+APP10734,2025-09-22,,Married,Master,Salaried,4.0,84000.0,734.0,61200.0,23500.0,24 months,Own,No,No
+APP10391,2025-05-12,30.0,Single, bachelor , Salaried,3.0,38300.0,751.0,12700.0,8000.0,24 months,Rent,No,Yes
+APP10729,2025-09-21,44.0,Single,Bachelor,Salaried,1.0,27200.0,703.0,12800.0,20500.0,48 months,Own,No,No
+APP10747,2025-09-26,31.0,Single,Master,Self-Employed,6.0,103200.0,692.0,0.0,15500.0,24 months,Mortgage,No,Yes
+APP10302,2025-04-11,25.0,Single,Bachelor,Self-Employed,1.0,55600.0,713.0,6200.0,31500.0,36 months,Rent,No,Yes
+APP10863,2025-11-05,28.0,Divorced,Master,Salaried,1.0,52600.0,713.0,11300.0,26500.0,24 months,Rent,No,No
+APP10477,2025-06-12,24.0,SINGLE,Master,salaried,2.0,49600.0,716.0,21200.0,8500.0,36 months,Mortgage,No,Yes
+APP10903,2025-11-29,48.0,married,Master,Self-Employed,18.0,152600.0,723.0,17400.0,77500.0,36 months,MORTGAGE,No,Yes
+APP10225,2025-03-22,30.0,Single,High School,Salaried,7.0,24300.0,584.0,11200.0,5500.0,24 months,Rent,No,Yes
+APP10811,2025-10-21,31.0,MARRIED,Bachelor,Salaried,9.0,89600.0,654.0,0.0,86000.0,24 months,Rent,No,No
+APP10939,2025-12-11,35.0,Single, high school ,Self-Employed,2.0,46000.0,653.0,0.0,16500.0,60 months,Own,Yes,No
+APP10042,2025-01-18,40.0,Married, High School,Salaried,8.0,57600.0,666.0,10600.0,47500.0,60 months,Rent,No,No
+APP10144,2025-02-21,29.0,Single,High School,SALARIED,2.0,24500.0,646.0,200.0,14500.0,12 months,Rent,Yes,Yes
+APP10624,2025-08-10,30.0,Single,Bachelor,Self-Employed,1.0,23700.0,749.0,4700.0,14500.0,60 months,Rent,No,No
+APP10772,2025-10-06,36.0,Married,Master,Self-Employed,1.0,76700.0,808.0,16600.0,36000.0,36 months,Rent,No,Yes
+APP10910,2025-12-01,47.0,Married,Master,Salaried,11.0,,655.0,34900.0,11500.0,24 months,Own,No,Yes
+APP10218,2025-03-19,25.0,Single,Master,Salaried,1.0,53100.0,645.0,8400.0,22000.0,48 months,Rent,No,Yes
+APP10550,2025-07-12,34.0,Married,Bachelor,Salaried,,75400.0,690.0,23100.0,43000.0,48 months,Own,No,Yes
+APP10971,2025-12-23,31.0,Single,Doctorate,Self-Employed,7.0,79800.0,661.0,15700.0,64500.0,36 months,Rent,No,Yes
+APP10965,2025-12-21,27.0,Married,Bachelor  ,Self-Employed,2.0,27600.0,700.0,11900.0,4500.0,12 months,Rent,No,Yes
+APP10387,2025-05-11,51.0,Married,Bachelor,SALARIED,5.0,47200.0,680.0,29900.0,8500.0,24 months,Mortgage,No,No
+APP10633,2025-08-15,28.0,Single, high school ,Self-Employed,3.0,37300.0,669.0,800.0,11500.0,12 months,Rent,No,Yes
+APP10038,2025-01-17,39.0,Married,High School,Salaried,7.0,19600.0,711.0,12900.0,7500.0,48 months,Mortgage,No,No
+APP10667,2025-08-25,38.0,Married,High School,Salaried,10.0,43400.0,652.0,18400.0,12500.0,48 months,Rent,No,Yes
+APP10122,2025-02-14,45.0,Married,Bachelor,Salaried,4.0,57500.0,650.0,36900.0,12500.0,24 months,Rent,No,No
+APP10529,2025-07-05,44.0,Married,High School, salaried ,3.0,19200.0,688.0,7600.0,7000.0,36 months,Own,No,Yes
+APP10719,2025-09-18,45.0,Single,Bachelor,Salaried  ,7.0,35500.0,674.0,9900.0,6500.0,36 months,Own,No,Yes
+APP10982,2025-12-27,33.0,Married,Doctorate,Salaried,2.0,57100.0,636.0,12000.0,24000.0,48 months,Mortgage,No,Yes
+APP10179,2025-03-07,,Married,High School,Salaried,6.0,65600.0,663.0,0.0,39500.0,48 months, mortgage ,No,Yes
+APP10852,2025-11-02,40.0,Single,Doctorate,Salaried,8.0,113300.0,532.0,78700.0,43500.0,60 months,Own,No,No
+APP10895,2025-11-24,46.0,Married,Bachelor,Salaried,2.0,18300.0,700.0,0.0,6500.0,12 months,Rent,No,Yes
+APP10762,2025-10-01,42.0,Divorced,High School,Contract,12.0,36100.0,645.0,8500.0,19000.0,60 months,Mortgage,No,Yes
+APP10486,2025-06-16,44.0,Married,Bachelor,Contract,8.0,37300.0,675.0,9000.0,26500.0,24 months,Rent,No,No
+APP10679,2025-08-30,49.0, married ,High School  ,Salaried,14.0,23000.0,717.0,5100.0,8500.0,36 months,Rent,No,Yes
+APP10519,2025-07-02,36.0,Married,Bachelor,Contract,9.0,28000.0,712.0,7600.0,11000.0,36 months,Mortgage,No,Yes
+APP10018,2025-01-08,25.0,Single, bachelor ,Salaried,3.0,,771.0,17900.0,8500.0,60 months,RENT,No,No
+APP10741,2025-09-25,46.0, married ,Master,Contract,9.0,82500.0,719.0,9100.0,16000.0,24 months,Rent,No,Yes
+APP10764,2025-10-02,31.0,Single,Bachelor,,2.0,47400.0,614.0,15300.0,13000.0,24 months,Mortgage  ,No,Yes
+APP10388,2025-05-12,21.0,Single,Master,Self-Employed,0.0,40500.0,,0.0,19000.0,24 months,Rent,No,No
+APP10395,2025-05-13,40.0,Single,MASTER,Self-Employed,5.0,56700.0,679.0,16500.0,19500.0,24 months,Own,Yes,Yes
+APP10466,2025-06-09,47.0,MARRIED,Bachelor,salaried,2.0,42200.0,738.0,29400.0,13000.0,36 months,Rent,No,No
+APP10301,2025-04-11,21.0,Single,Master  ,Salaried,1.0,37300.0,693.0,10800.0,4000.0,24 months,Rent,No,Yes
+APP10398,2025-05-14,45.0,Married,bachelor,Contract,11.0,42400.0,619.0,6500.0,5500.0,24 months,Rent,No,Yes
+APP10654,2025-08-23,51.0,Married,High School,Self-Employed,22.0,32400.0,633.0,19100.0,32500.0,36 months,Own,No,No
+APP10254,2025-03-31,39.0,married,HIGH SCHOOL,Self-Employed,14.0,54800.0,610.0,16000.0,20500.0,48 months,Own,No,No
+APP10170,2025-03-03,47.0,Married,High School,Contract,9.0,16400.0,539.0,3800.0,2500.0,24 months,Mortgage,Yes,No
+APP10885,2025-11-18,34.0,Married, high school ,Self-Employed,4.0,,624.0,900.0,24000.0,12 months,Rent,No,Yes
+APP10940,2025-12-12,38.0,Married,Bachelor,Salaried,4.0,27900.0,,10600.0,7000.0,12 months,Own,No,Yes
+APP10921,2025-12-05,28.0,Married,Doctorate,Salaried,2.0,49700.0,745.0,15200.0,11500.0,12 months,Rent,No,Yes
+APP10342,2025-04-26,43.0,Divorced,High School,Contract,8.0,26300.0,580.0,4500.0,19000.0,24 months,Own,Yes,No
+APP10756,2025-09-29,38.0,Married,High School,Self-Employed,9.0,45600.0,617.0,3700.0,14000.0,24 months,Rent,Yes,No
+APP10492,2025-06-19,29.0,Single,Bachelor,Salaried,3.0,47200.0,686.0,16100.0,13500.0,12 months,Rent,Yes,No
+APP10814,2025-10-22,21.0,MARRIED,High School,Salaried,0.0,21000.0,529.0,3200.0,4500.0,60 months, rent ,Yes,No
+APP10090,2025-02-01,32.0,Married,Master,Contract,1.0,48200.0,559.0,10200.0,37000.0,36 months,RENT,Yes,No
+APP10665,2025-08-25,49.0,Married,Master,Salaried,17.0,69400.0,638.0,8400.0,32500.0,36 months,Own,No,Yes
+APP10977,2025-12-26,50.0,Married,High School,Self-Employed,17.0,47300.0,526.0,8000.0,25000.0,36 months,Mortgage,Yes,No
+APP10799,2025-10-17,51.0,Married,High School,Salaried,22.0,42500.0,645.0,13000.0,17000.0,48 months,Rent,Yes,No
+APP10576,2025-07-21,51.0,Married,High School,Self-Employed,12.0,64900.0,485.0,34400.0,38000.0,36 months,Rent,No,No
+APP10840,2025-10-29,33.0,Single, doctorate ,Salaried,9.0,74800.0,602.0,0.0,9000.0,24 months,Rent,No,Yes
+APP10823,2025-10-25,21.0,Divorced,High School,Self-Employed,0.0,61100.0,526.0,34600.0,35000.0,24 months,Mortgage,Yes,No
+APP10357,2025-05-01,42.0,Married,High School,Contract,9.0,32600.0,698.0,7600.0,11000.0,24 months,Rent,No,Yes
+APP10616,2025-08-07,25.0,Married,Master, self-employed ,2.0,76600.0,688.0,14100.0,46000.0,36 months,Own,No,No
+APP10181,2025-03-08,32.0,Single,Bachelor  ,Self-Employed,3.0,42300.0,685.0,700.0,20500.0,24 months,Rent,No,Yes
+APP10199,2025-03-14,41.0,Single,High School,Self-Employed,5.0,37500.0,723.0,6400.0,14500.0,36 months,Own,No,Yes
+APP10589,2025-07-26,38.0,Married,Bachelor,Salaried,,60600.0,679.0,12800.0,26000.0,12 months,Own,No,Yes
+APP10261,2025-04-01,38.0,Married, master ,Salaried,10.0,87300.0,633.0,33000.0,72500.0,12 months,Rent,No,No
+APP10236,2025-03-25,47.0,Married,Master,Self-Employed,6.0,64400.0,594.0,21300.0,16500.0,60 months,rent,No,No
+APP10315,2025-04-15,32.0,Single,HIGH SCHOOL,Salaried,6.0,12400.0,671.0,5800.0,6500.0,24 months,Rent,No,Yes
+APP10047,2025-01-20,33.0,Married,Master,Self-Employed,5.0,96400.0,794.0,10400.0,66500.0,24 months,Rent,No,Yes
+APP10886,2025-11-19,54.0,Married,Bachelor, Salaried,22.0,52100.0,738.0,0.0,17000.0,24 months,Mortgage,No,Yes
+APP10195,2025-03-13,45.0,Single, Master,Salaried,8.0,40600.0,646.0,14600.0,9000.0,48 months,Own,No,Yes
